@@ -1,0 +1,788 @@
+Restaurant,Food,Category,Calories,Total Fat (g),Saturated Fat (g),Sodium (mg),Carbs (g),Sugar (g),Protein (g),Fiber (g),Has_wheat,Has_soy,Has_milk,Has_egg,Has_peanut,Has_treenut,Has_fish,Has_shellfish,Has_sesame
+McDonald's,Egg McMuffin,Breakfast,310,13,6,770,30,3,17,2,2,2,2,2,0,0,0,0,1
+McDonald's,Sausage McMuffin,Breakfast,400,26,10,760,29,2,14,2,2,2,2,0,0,0,0,0,1
+McDonald's,Sausage McMuffin w/ Egg,Breakfast,480,31,12,830,30,2,20,2,2,2,2,2,0,0,0,0,1
+McDonald's,"Bacon, Egg, and Cheese Biscuit",Breakfast,460,26,13,1330,39,3,17,2,2,2,2,2,0,0,0,0,0
+McDonald's,Sausage Biscuit,Breakfast,460,30,13,1090,37,2,11,2,2,2,2,0,0,0,0,0,0
+McDonald's,Sausage Biscuit w/ Egg,Breakfast,530,35,15,1190,38,3,17,2,2,2,2,2,0,0,0,0,0
+McDonald's,"Bacon, Egg, and Cheese McGriddles",Breakfast,430,21,9,1230,44,15,17,2,2,2,2,2,0,0,0,0,0
+McDonald's,Sausage McGriddles,Breakfast,430,24,9,990,41,14,11,2,2,2,2,0,0,0,0,0,0
+McDonald's,"Sausage, Egg, and Cheese McGriddles",Breakfast,550,33,13,1290,44,15,19,2,2,2,2,2,0,0,0,0,0
+McDonald's,Egg and Cheese Bagel,Breakfast,520,24,10,1100,55,6,21,2,2,2,2,2,0,0,0,0,1
+McDonald's,"Bacon, Egg, and Cheese Bagel",Breakfast,590,30,12,1320,56,7,25,2,2,2,2,2,0,0,0,0,1
+McDonald's,"Sausage, Egg, and Cheese Bagel",Breakfast,710,42,16,1380,56,6,27,2,2,2,2,2,0,0,0,0,1
+McDonald's,"Steak, Egg, and Cheese Bagel",Breakfast,680,35,15,1510,57,7,34,3,2,2,2,2,0,0,0,0,1
+McDonald's,Big Breakfast,Breakfast,1060,48,18,1540,131,56,26,3,2,2,2,2,0,0,0,0,0
+McDonald's,Big Breakfast w/ Hotcakes,Breakfast,1340,63,24,2070,158,48,36,5,2,2,2,2,0,0,0,0,0
+McDonald's,Hotcakes,Breakfast,580,15,6,530,101,45,9,2,2,2,2,2,0,0,0,0,0
+McDonald's,Hotcakes & Sausage,Breakfast,770,33,12,810,102,46,15,2,2,2,2,2,0,0,0,0,0
+McDonald's,Sausage Burrito,Breakfast,310,17,7,800,25,2,13,1,2,2,2,2,0,0,0,0,0
+McDonald's,Hashbrown,Breakfast,140,8,1,310,18,0,2,2,2,0,2,0,0,0,1,0,0
+McDonald's,Fruit & Maple Oatmeal,Breakfast,320,4.5,1.5,150,64,31,6,4,0,0,2,0,0,0,0,0,0
+Burger King,Egg-normous Burrito,Breakfast,820,46,17,2045,67,4,36,3,2,2,2,2,0,0,1,0,0
+Wendy's,Breakfast Baconator,Breakfast,680,46,18,1580,34,7,33,1,2,2,2,2,0,0,0,0,2
+Wendy's,Homestyle French Toast Sticks,Breakfast,460,18,4,380,63,21,10,1,2,2,2,2,0,0,0,0,2
+Chick-fil-A,Chicken Biscuit,Breakfast,460,23,8,1510,45,6,19,2,2,2,2,2,0,0,0,0,0
+Chick-fil-A,Spicy Chicken Biscuit,Breakfast,450,22,8,1570,44,5,19,3,2,2,2,2,0,0,0,0,0
+Chick-fil-A,"Chicken, Egg, and Cheese Biscuit",Breakfast,550,28,12,1870,48,7,27,3,2,2,2,2,0,0,0,0,0
+Chick-fil-A,"Chicken, Egg, and Cheese Muffin",Breakfast,410,18,6,1320,36,4,27,3,2,2,2,2,0,0,0,0,0
+Chick-fil-A,Chick-n Minis,Breakfast,360,13,4,1060,41,8,20,2,2,2,2,2,0,0,0,0,0
+Chick-fil-A,Egg White Grill,Breakfast,300,8,4,990,29,2,27,1,2,2,2,2,0,0,0,0,0
+Chick-fil-A,Hash Brown Scramble Burrito,Breakfast,700,40,12,1770,51,2,34,3,2,2,2,2,0,0,0,0,0
+Chick-fil-A,Hash Brown Scramble Bowl + Nuggets,Breakfast,470,30,9,1350,19,2,29,2,2,2,2,2,0,0,0,0,0
+Chick-fil-A,Hashbrowns,Breakfast,270,18,2.5,440,23,0,3,3,0,0,0,0,0,0,0,0,0
+Taco Bell,Cheesy Toasted Breakfast Burrito Bacon,Breakfast,350,16,5,900,38,3,13,2,2,0,2,2,0,0,0,0,0
+Taco Bell,Cheesy Toasted Breakfast Burrito Sausage,Breakfast,350,17,6,770,38,3,10,2,2,0,2,2,0,0,0,0,0
+Taco Bell,Cheesy Toasted Breakfast Burrito - Fiesta Potato,Breakfast,340,14,3.5,770,44,3,9,3,2,0,2,2,0,0,0,0,0
+Taco Bell,Grande Toasted Breakfast Burrito Bacon,Breakfast,570,30,11,1320,51,3,23,4,2,0,2,2,0,0,0,0,0
+Taco Bell,Grande Toasted Breakfast Burrito Sausage,Breakfast,570,31,12,1190,51,3,21,4,2,0,2,2,0,0,0,0,0
+Taco Bell,Grande Toasted Breakfast Burrito Steak,Breakfast,570,28,10,1370,52,4,27,4,2,0,2,2,0,0,0,0,0
+Taco Bell,Breakfast Quesadilla Bacon,Breakfast,510,27,14,1260,40,3,25,3,2,0,2,2,0,0,0,0,0
+Taco Bell,Breakfast Quesadilla Steak,Breakfast,510,25,14,1310,41,4,28,3,2,0,2,2,0,0,0,0,0
+Taco Bell,Breakfast California Crunchwrap,Breakfast,640,38,12,1330,53,3,21,5,2,0,2,2,0,0,0,0,0
+Taco Bell,Breakfast Crunchwrap Bacon,Breakfast,670,40,13,1300,52,3,21,4,2,0,2,2,0,0,0,0,0
+Taco Bell,Breakfast Crunchwrap Sausage,Breakfast,750,49,17,1210,53,3,21,4,2,0,2,2,0,0,0,0,0
+Taco Bell,Hashbrown,Breakfast,160,11,1,280,14,0,1,1,1,0,0,0,0,0,0,0,0
+Dunkin,Egg & Cheese English Muffin,Breakfast,340,15,5,650,38,4,14,1,2,2,2,2,0,0,0,0,0
+Dunkin,"Bacon, Egg & Cheese English Muffin",Breakfast,420,21,7,900,39,4,19,1,2,2,2,2,0,0,0,0,0
+Dunkin,"Sausage, Egg, & Cheese English Muffin",Breakfast,560,35,12,1140,40,4,21,2,2,2,2,2,0,0,0,0,0
+Dunkin,"Turkey Sausage, Egg, & Cheese English Muffin",Breakfast,460,24,8,1040,39,4,22,1,2,2,2,2,0,0,0,0,0
+Dunkin,Egg & Cheese Bagel,Breakfast,460,13,5,1010,66,8,19,4,2,2,2,2,0,0,0,0,0
+Dunkin,"Bacon, Egg, & Cheese Bagel",Breakfast,540,19,7,1260,67,8,24,4,2,2,2,2,0,0,0,0,0
+Dunkin,"Sausage, Egg, & Cheese Bagel",Breakfast,680,34,12,1500,68,8,26,5,2,2,2,2,0,0,0,0,0
+Dunkin,Egg & Cheese Croissant,Breakfast,440,28,14,620,33,4,14,1,2,2,2,2,0,0,0,0,0
+Dunkin,"Bacon, Egg, & Cheese Croissant",Breakfast,520,34,16,870,34,5,19,1,2,2,2,2,0,0,0,0,0
+Dunkin,"Bacon, Egg, & Cheese Biscuit",Breakfast,540,19,7,1260,67,8,24,4,2,2,2,2,0,0,0,0,0
+Dunkin,Sourdough Breakfast Sandwich,Breakfast,630,31,10,1300,58,2,30,3,2,1,2,2,0,0,0,0,0
+Dunkin,Egg & Cheese Wake-Up Wrap,Breakfast,180,10,4,470,14,1,7,0,2,2,2,2,0,0,0,0,0
+Dunkin,"Bacon, Egg, & Cheese Wake-Up Wrap",Breakfast,220,13,5,590,15,1,10,0,2,2,2,2,0,0,0,0,0
+Dunkin,"Sausage, Egg, & Cheese Wake-Up Wrap",Breakfast,280,20,7,690,15,1,10,1,2,2,2,2,0,0,0,0,0
+Dunkin,"Turkey Sausage, Egg, & Cheese Wake-Up Wrap",Breakfast,230,15,5,660,15,1,11,0,2,2,2,2,0,0,0,0,0
+Dunkin,Avocado Toast,Breakfast,240,11,1.5,530,34,1,6,6,2,1,1,1,0,0,0,0,2
+Dunkin,Plain Bagel,Breakfast,420,13,8,820,67,3,2,0,2,2,2,1,0,1,0,0,1
+Dunkin,Sesame Seed Bagel,Breakfast,470,17,9,830,67,10,14,5,2,2,2,1,0,1,0,0,2
+Dunkin,Everything Bagel ,Breakfast,440,13,6.5,830,69,9,14,5,2,2,2,1,0,1,0,0,2
+Dunkin,Cinnamon Raisin Bagel,Breakfast,450,11,6,610,76,21,13,4,2,2,2,1,0,1,0,0,1
+Dunkin,Multigrain Bagel,Breakfast,415,12,9.5,580,63,8,15,8,2,2,2,1,0,1,0,0,2
+Dunkin,Blueberry Muffin,Breakfast,460,15,3,390,77,44,6,1,2,2,2,2,0,0,0,0,0
+Dunkin,Chocolate Chip Muffin,Breakfast,550,21,6,400,85,49,7,2,2,2,2,2,0,0,0,0,0
+Dunkin,Coffee Cake Muffin,Breakfast,590,24,8,370,88,51,7,2,2,2,2,2,0,0,0,0,0
+Dunkin,Hashbrown,Breakfast,110,6,1.5,360,13,1,1,0,0,0,0,0,0,0,0,0,0
+Dunkin,Plain Stuffed Bagel Minis,Breakfast,240,10,6,400,32,5,7,2,2,0,2,0,0,0,0,0,1
+Dunkin,Everything Stuffed Bagel Minis,Breakfast,260,12,7,400,34,5,8,3,2,0,2,0,0,0,0,0,2
+Starbucks,"Egg, Pesto, & Mozzarella Sandwich",Breakfast,390,16,6,790,36,1,21,2,2,0,2,2,0,0,0,0,0
+Starbucks,"Bacon, Gouda, & Egg Sandwich",Breakfast,360,18,6,710,35,2,18,1,2,0,2,2,0,0,0,0,0
+Starbucks,"Double Smoked Bacon, Egg, & Cheddar Sandwich",Breakfast,500,27,13,960,43,8,21,2,2,0,2,2,0,0,0,0,0
+Starbucks,"Sausage, Cheddar, & Egg Sandwich",Breakfast,480,29,10,890,34,2,18,1,2,0,2,2,0,0,0,0,0
+Starbucks,"Turkey Bacon, Cheddar, & Egg White Sandwich",Breakfast,260,9,3.5,600,30,2,17,2,2,0,2,2,0,0,0,0,0
+Starbucks,Impossible Breakfast Sandwich,Breakfast,420,22,8,800,36,4,21,3,2,2,2,2,0,2,0,0,2
+Starbucks,"Bacon, Sausage, & Egg Wrap",Breakfast,640,33,13,1050,57,2,27,2,2,0,2,2,0,0,0,0,0
+Starbucks,"Spinach, Feta, & Egg White Wrap",Breakfast,290,8,3.5,840,34,5,20,3,2,2,2,2,0,0,0,0,2
+Starbucks,"Truffle, Mushroom, & Brie Egg Bites",Breakfast,200,10,6,620,12,1,14,1,0,2,2,0,0,0,0,0,0
+Starbucks,Italian Sausage Egg Bites,Breakfast,240,19,8,620,10,2,15,0,0,0,2,2,0,0,0,0,0
+Starbucks,Bacon & Gruyere Egg Bites,Breakfast,300,20,12,680,9,2,19,0,0,2,0,2,0,0,0,0,0
+Starbucks,Egg White & Roasted Red Pepper Bites,Breakfast,170,8,5,470,11,3,12,0,0,2,0,2,0,0,0,0,0
+Starbucks,"Potato, Cheddar, & Chive Bakes",Breakfast,210,13,7,410,11,2,12,0,0,2,0,2,0,0,0,0,0
+Starbucks,Oatmeal #1,Breakfast,310,12.5,1.5,125,44,12,7,6,0,0,0,0,0,2,0,0,0
+Starbucks,Oatmeal #2,Breakfast,400,10,1,250,61,28,14,6,0,0,2,0,0,2,0,0,0
+Starbucks,Oatmeal #3,Breakfast,430,15,3.5,250,61,28,14,6,0,0,2,0,0,2,0,0,0
+Starbucks,Oatmeal #4,Breakfast,370,15,1,225,49,17,5,7,0,0,0,0,0,2,0,0,0
+Starbucks,Oatmeal #5,Breakfast,610,18,5.5,240,103,69,14,8,0,0,2,0,0,2,0,0,0
+Starbucks,Oatmeal #6,Breakfast,1085,77,43,230,94,61,9,8,0,0,2,0,0,2,0,0,0
+Starbucks,Oatmeal #7,Breakfast,925,52,25,215,108,76,10,8,0,0,2,0,0,2,0,0,0
+Starbucks,Muesli Yogurt,Breakfast,340,13,7,125,38,28,19,4,0,0,2,0,0,0,0,0,0
+Starbucks,No Added Sugar Muesli Yogurt,Breakfast,280,11,6,140,28,10,18,4,0,0,2,0,0,0,0,0,0
+Starbucks,Strawberry Shortcake Greek Yogurt,Breakfast,310,11,7,115,39,29,16,3,0,0,2,0,0,0,0,0,0
+Starbucks,Cheese Danish,Breakfast,290,14,9,400,33,11,7,1,2,0,2,2,0,0,0,0,0
+Starbucks,Butter Croissant,Breakfast,250,14,8,300,26,4,5,1,2,0,2,2,0,0,0,0,0
+Starbucks,"Banana, Walnut, and Pecan Loaf",Breakfast,380,20,3,300,46,26,6,2,2,2,0,2,0,2,0,0,0
+Starbucks,Pumpkin & Pepita Loaf,Breakfast,360,14,2.5,460,52,31,6,2,2,2,0,2,0,1,0,0,0
+Starbucks,Cinnamon Coffee Cake,Breakfast,380,15,8,270,57,35,4,1,2,2,2,2,0,0,0,0,0
+Starbucks,Blueberry Struesel Muffin,Breakfast,370,18,4,330,47,27,5,1,2,2,2,2,0,0,0,0,0
+Panera,"Ciabatta Ham, Egg, & Cheese Sandwich",Breakfast,410,17,8,930,40,1,25,2,2,1,2,2,0,0,0,0,0
+Panera,"Chipotle Chicken, Egg, & Avo Sandwich",Breakfast,550,30,10,1020,44,2,27,4,2,1,2,2,0,0,0,0,0
+Panera,Steak & Wake,Breakfast,470,19,9,920,41,1,33,2,2,1,2,2,0,0,0,0,0
+Panera,Bacon Double Take,Breakfast,510,28,13,1360,37,2,28,1,2,2,2,2,0,0,0,0,0
+Panera,Ham Croissant Benny,Breakfast,430,24,14,970,34,7,21,2,2,2,2,2,0,1,0,0,1
+Panera,Ciabatta Egg & Cheese Sandwich,Breakfast,380,16,7,610,40,1,20,2,2,1,2,2,0,0,0,0,0
+Panera,"Ciabatta Bacon, Egg, & Cheese Sandwich",Breakfast,420,19,9,760,40,1,23,2,2,1,2,2,0,0,0,0,0
+Panera,Garden Avo & Egg White Sandwich,Breakfast,340,14,5,720,36,3,19,5,2,1,2,2,0,0,0,0,0
+Panera,"Ciabatta Sausage, Egg, & Cheese Sandwich",Breakfast,560,32,14,1010,40,1,28,2,2,1,2,2,0,0,0,0,0
+Panera,Sausage & Egg Asiago Bagel Stack,Breakfast,420,47,18,1470,58,5,32,2,2,2,2,2,0,0,0,0,0
+Panera,Farmhouse Duo Asiago Bagel Stack,Breakfast,700,37,17,1400,58,5,33,2,2,2,2,2,0,0,0,0,0
+Panera,Wake-Up BLT Asiago Everything Bagel Stack,Breakfast,530,21,10,1160,59,6,27,3,2,2,2,2,0,0,0,0,2
+Panera,Four Cheese Souffle,Breakfast,290,21,10,1140,11,5,16,0,1,2,2,2,0,0,0,0,0
+Panera,Bacon & Spinach Souffle,Breakfast,550,37,19,940,36,8,19,1,1,2,2,2,0,0,0,0,0
+Panera,Classic Avo,Breakfast,230,11,1.5,250,27,1,5,5,2,0,1,0,0,0,0,0,2
+Panera,Green Goddess Avo,Breakfast,290,15,3,480,31,3,7,5,2,0,0,0,0,0,0,0,1
+Panera,Steel Cut Oatmeal with Strawberries & Pecans,Breakfast,330,13,1.5,170,51,16,8,7,0,0,0,0,0,2,0,0,0
+Panera,Asiago Bagel,Breakfast,320,5,3,540,55,4,14,2,2,0,2,0,0,0,0,0,1
+Panera,Orange Scone,Breakfast,550,21,13,860,77,39,8,2,2,0,2,0,0,0,0,0,0
+IHOP,Original Buttermilk Pancakes,Breakfast,570,18,7,1510,89,28,13,3,2,2,2,2,0,0,0,0,0
+IHOP,Strawberry Banana Pancakes,Breakfast,700,17,5,1930,122,41,18,8,2,2,2,2,0,0,0,0,0
+IHOP,Buttermilk Chocolate Chip Pancakes,Breakfast,770,26,11,1940,122,51,19,7,2,2,2,2,0,0,0,0,0
+IHOP,Chocolate Chocolate Chip Pancakes,Breakfast,790,26,12,1940,126,51,20,9,2,2,2,2,0,0,0,0,0
+IHOP,Double Blueberry Pancakes,Breakfast,630,17,5,1920,104,34,17,6,2,2,2,2,0,0,0,0,0
+IHOP,Protein Power Pancakes,Breakfast,770,26,9,1680,98,35,37,5,2,2,2,2,0,0,0,0,0
+IHOP,New York Cheesecake Pancakes,Breakfast,880,34,15,2170,122,44,22,6,2,2,2,2,0,0,0,0,0
+IHOP,Oreo Cheesecake Pancakes,Breakfast,1280,58,24,2480,166,69,26,5,2,2,2,2,0,0,0,0,0
+IHOP,Cinn-A-Stack Pancakes,Breakfast,890,30,13,2190,138,67,17,6,2,2,2,2,0,0,0,0,0
+IHOP,Cupcake Pancakes,Breakfast,740,21,9,1950,121,51,17,4,2,2,2,2,0,0,0,0,0
+IHOP,Mexican Tres Leches Pancakes,Breakfast,710,26,12,2000,102,33,18,4,2,2,2,2,0,0,0,0,0
+IHOP,Cinnamon Donut Dippers Pancakes,Breakfast,1080,43,16,2330,153,70,21,6,2,2,2,2,0,0,0,0,0
+IHOP,Belgian Waffles,Breakfast,670,29,18,760,92,31,10,2,2,2,2,2,0,0,0,0,0
+IHOP,Strawberry Cheesecake Waffles,Breakfast,710,37,22,850,82,29,13,3,2,2,2,2,0,0,0,0,0
+IHOP,Oreo Cookie Crumble Waffle,Breakfast,980,49,25,1050,123,52,16,4,2,2,2,2,0,0,0,0,0
+IHOP,Chicken & Waffles,Breakfast,1270,66,24,2290,126,32,44,5,2,2,2,2,0,0,0,0,0
+IHOP,Garden Omelette,Breakfast,780,60,22,910,17,5,45,3,2,2,2,2,0,0,0,0,0
+IHOP,Spinach & Mushroom Omelette,Breakfast,890,71,27,2030,20,5,45,3,2,2,2,2,0,0,0,0,0
+IHOP,Veggie Egg White Omelette,Breakfast,370,27,4.5,1230,15,6,20,6,1,2,1,2,0,0,0,0,0
+IHOP,Bacon Temptation Omelette,Breakfast,1160,89,35,2220,20,5,68,1,2,2,2,2,0,0,0,0,0
+IHOP,Colorado Omelette,Breakfast,1260,99,36,2280,17,4,71,1,2,2,2,2,0,0,0,0,0
+IHOP,Big Steak Omelette,Breakfast,1020,68,24,1750,38,6,65,5,2,2,2,2,0,0,0,0,0
+IHOP,Spicy Poblano Omelette,Breakfast,990,77,32,2270,32,4,54,6,2,2,2,2,0,0,0,0,0
+IHOP,Chicken Fajita Omelette,Breakfast,890,58,23,2100,21,5,72,3,2,2,2,2,0,0,0,0,0
+IHOP,Classic Thick N' Fluffy French Toast,Breakfast,1010,42,18,1240,136,44,23,5,2,2,2,2,0,0,0,0,0
+IHOP,Strawberry Banana Thick N' Fluffy French Toast,Breakfast,960,34,13,1190,144,53,24,9,2,2,2,2,0,0,0,0,0
+IHOP,"Bacon, Egg, & Cheese Anytime Tacos",Breakfast,880,60,25,1640,41,4,41,3,2,2,2,2,0,0,0,0,0
+IHOP,Spicy Shredded Beef Anytime Tacos,Breakfast,920,62,23,1680,46,5,44,5,2,2,2,2,0,0,0,0,0
+IHOP,Big Breakfast Burrito,Breakfast,1590,114,42,2840,80,4,60,6,2,2,2,2,0,0,0,0,0
+IHOP,Southwest Chicken Burrito,Breakfast,1370,84,28,3070,90,8,62,10,2,2,2,2,0,0,0,0,0
+IHOP,Buttermilk Biscuits & Gravy,Breakfast,750,54,21,1820,59,5,7,1,2,2,2,1,0,0,0,0,0
+IHOP,Breakfast Biscuit Sandwich,Breakfast,1110,83,30,2280,58,6,31,2,2,2,2,2,0,0,0,0,0
+IHOP,Fresh Berry Crepes,Breakfast,650,24,6,950,91,30,19,5,2,2,2,2,0,0,0,0,0
+IHOP,Cinnamon Bun Crepes,Breakfast,680,32,13,740,89,53,12,3,2,2,2,2,0,0,0,0,0
+IHOP,Breakfast Crepes,Breakfast,1270,84,29,2000,73,16,52,5,2,2,2,2,0,0,0,0,0
+IHOP,Chicken Florentine Crepe,Breakfast,870,49,21,2420,53,17,54,5,2,2,2,2,0,0,0,0,0
+IHOP,Classic Eggs Benedict,Breakfast,480,24,10,1730,36,4,31,1,2,2,2,2,0,0,0,0,0
+IHOP,Bacon Avocado Eggs Benedict,Breakfast,820,56,21,1660,39,3,40,5,2,2,2,2,0,0,0,0,0
+IHOP,Spicy Poblano Eggs Benedict,Breakfast,570,28,12,1700,39,4,40,3,2,2,2,2,0,0,0,0,0
+IHOP,Scrambled Eggs,Breakfast,220,17,5,180,1,0,14,1,0,2,2,0,0,0,0,0,0
+IHOP,Fried Eggs,Breakfast,200,16,4.5,180,2,0,12,0,0,2,2,0,0,0,0,0,0
+IHOP,Egg Whites,Breakfast,60,2,0,180,0,0,10,0,0,2,2,0,0,0,0,0,0
+IHOP,White Buttered Toast,Breakfast,220,8,4,390,33,4,5,1,2,2,2,2,0,0,0,0,2
+IHOP,Wheat Buttered Toast,Breakfast,260,11,6,460,36,4,7,3,2,2,2,2,0,0,0,0,2
+IHOP,Multigrain Buttered Toast,Breakfast,210,6,2,290,26,2,6,3,2,2,2,1,0,0,0,0,2
+IHOP,Pork Sausage Patties,Breakfast,210,21,7,330,0,0,5,0,0,0,0,0,0,0,0,0,0
+IHOP,Hickory-Smoked Bacon ,Breakfast,130,11,4,290,0,0,8,0,0,0,0,0,0,0,0,0,0
+IHOP,Turkey Bacon,Breakfast,60,3.5,1,340,1,0,5,0,0,0,0,0,0,0,0,0,0
+IHOP,Buttered English Muffin,Breakfast,180,4.5,3,300,31,1,6,1,2,2,2,1,0,0,0,0,1
+IHOP,Hashbrowns,Breakfast,220,14,3,240,20,0,2,2,0,2,0,0,0,0,0,0,0
+IHOP,Breakfast Potatoes,Breakfast,310,13,2.5,1010,42,0,5,4,0,0,0,0,0,0,0,0,0
+IHOP,Fresh Fruit,Breakfast,50,0,0,5,14,11,0,1,0,0,0,0,0,0,0,0,0
+Subway,Lays Classic,Side,160,10,1.5,170,15,0,2,2,0,0,0,0,0,0,0,0,0
+Subway,Baked Lays Original,Side,120,3.5,0.5,135,21,2,2,2,0,2,0,0,0,0,0,0,0
+Subway,Doritos,Side,150,7,1,280,18,0,2,2,0,0,2,0,0,0,0,0,0
+Subway,Oven-Roasted Turkey Sub,Entree,480,24,6,1120,39,6,27,5,2,2,2,2,0,0,0,0,0
+Subway,Black Forest Ham Sub,Entree,490,23,8,1190,44,5,25,2,2,2,2,2,0,0,0,0,0
+Subway,Roast Beef Sub,Entree,500,23,8,1120,44,6,31,2,2,2,2,2,0,0,0,0,0
+Subway,Cold Cut Cumbo,Entree,530,29,9,1320,43,5,20,2,2,2,2,2,0,0,0,0,0
+Subway,Tuna Sub,Entree,560,34,8,920,39,5,28,4,2,2,2,2,0,0,2,0,0
+Subway,Veggie Delite Sandwich,Entree,320,10,5,600,41,6,17,4,2,2,2,0,0,0,0,0,0
+Subway,All American Club,Entree,540,28,10,1520,45,6,27,3,2,2,2,2,0,0,0,0,0
+Subway,Subway Club,Entree,500,24,8,1520,43,8,31,4,2,2,2,2,0,0,0,0,0
+Subway,BMT,Entree,610,36,12,1500,44,5,27,2,2,2,2,2,0,0,0,0,0
+Subway,Spicy Italian,Entree,680,44,15,1690,44,5,27,3,2,2,2,2,0,0,0,0,0
+Subway,5 Meat Italian,Entree,680,37,13,1940,46,6,40,3,2,2,2,2,0,0,0,0,0
+Subway,Meatball Pepperoni Sub,Entree,690,38,16,1860,56,7,33,4,2,2,2,0,0,0,0,0,0
+Subway,Meatball Sub,Entree,570,28,12,1370,53,7,27,4,2,2,2,0,0,0,0,0,0
+Subway,BLT Sub,Entree,480,26,7,800,42,5,18,2,2,2,0,2,0,0,0,0,0
+Subway,Pizza Sub,Entree,490,25,11,1340,45,5,22,2,2,2,2,0,0,0,0,0,0
+Subway,Steak Philly,Entree,510,25,9,1320,43,5,28,2,2,2,2,2,0,0,0,0,0
+Subway,Chipotle Philly,Entree,490,22,9,1440,44,5,30,2,2,2,2,2,0,0,0,0,0
+Subway,Cheesy Garlic Sub,Entree,510,23,6,1190,49,5,26,3,2,2,2,2,0,0,0,0,0
+Subway,Grilled Chicken Sub,Entree,510,24,8,830,43,5,31,3,2,2,2,2,0,0,0,0,0
+Subway,Chicken Bacon Ranch Sub,Entree,830,42,14,1850,56,7,35,3,2,1,2,2,0,0,0,0,0
+Subway,Honey Mustard BBQ Sub,Entree,510,27,9,1350,53,13,30,3,2,1,2,2,0,0,0,0,0
+Subway,Spicy Nacho Chicken Sub,Entree,440,17,4,1280,49,5,24,3,2,1,2,2,0,0,0,0,0
+Subway,Sweet Onion Teriyaki Chicken Sub,Entree,430,11,5,1250,55,20,29,4,2,2,2,0,0,0,0,0,2
+Subway,Grilled Chicken and Avocado,Entree,470,19,4,930,44,8,35,6,2,2,2,2,0,0,0,0,0
+Subway,Turkey & Ranch Delite,Entree,380,13,3,1140,41,7,26,5,2,2,2,2,0,0,0,0,0
+Subway,Ham & Turkey Stacker,Entree,290,5,1,1000,42,6,20,4,2,2,0,2,0,0,0,0,0
+Subway,Seasoned Steak & Avacado ,Entree,460,16,5,1170,45,7,35,6,2,2,0,0,0,0,0,0,0
+Subway,Veggie Patty Sub,Entree,470,19,6,1100,58,9,19,12,2,2,2,0,0,0,0,0,0
+Subway,Personal Cheese Pizza,Entree,700,22,9,1370,95,8,29,4,2,1,2,0,0,0,0,0,0
+Starbucks,Crispy Grilled Cheese on Sourdough,Entree,520,27,16,1040,47,1,21,4,0,2,2,0,0,0,0,0,0
+Starbucks,Tomato & Mozzarella on Focaccia,Entree,360,12,4.5,590,47,2,15,1,0,2,2,0,0,0,0,0,0
+Starbucks,Ham & Swiss on Baguette,Entree,510,25,10,1230,43,1,25,2,0,2,2,0,0,0,0,0,0
+Panera,French Baguette,Side,180,0.5,0,450,36,1,7,1,2,0,0,0,0,0,0,0,0
+Panera,Grilled Cheese,Entree,810,44,26,2570,72,13,33,2,2,2,2,0,0,0,0,0,0
+Panera,Toasted Caprese Focaccia,Entree,670,24,14,1450,83,14,31,4,2,0,2,1,0,0,0,0,0
+Panera,Chipotle Chicken Avo Melt,Entree,930,50,14,2490,76,5,48,7,2,0,2,2,0,0,0,0,0
+Panera,Spicy Fiesta Chicken,Entree,840,31,15,1830,90,5,51,6,2,0,2,2,0,0,0,0,0
+Panera,Toasted Frontega Chicken,Entree,800,36,10,2380,74,5,45,4,2,0,2,2,0,0,0,0,0
+Panera,Chicken Bacon Rancher,Entree,890,44,14,2220,73,3,51,4,2,0,2,2,0,0,0,0,0
+Panera,Smokehouse BBQ Chicken,Entree,740,21,10,2250,91,12,49,4,2,0,2,1,0,0,0,0,0
+Panera,Toasted Italiano,Entree,1280,64,20,4230,116,5,60,4,2,0,2,2,0,0,0,0,0
+Panera,Ciabatta Cheesesteak,Entree,1050,53,15,1910,92,11,52,5,2,0,2,2,0,0,0,0,0
+Panera,Chicken Roma Asiago Bagel Stack,Entree,570,24,9,1000,59,6,30,3,2,0,2,2,0,0,0,0,0
+Panera,Spicy Steak Asiago Bagel Stack,Entree,590,22,12,1330,59,6,39,3,2,0,2,2,0,0,0,0,0
+Panera,Mediterranean Veggie Sandwich,Entree,490,14,3.5,1290,76,8,18,6,2,0,2,0,0,0,0,0,2
+Panera,Turkey & Cheddar Sandwich,Entree,790,47,12,2010,53,6,38,3,2,0,2,2,0,0,0,0,0
+Panera,Cranberry Walnut Chicken Salad Sandwich,Entree,640,33,3.5,830,57,11,32,4,2,0,0,2,0,2,0,0,0
+Panera,Tuna Salad Sandwich,Entree,550,28,4.5,1060,49,4,24,4,2,0,0,2,0,0,2,0,0
+Panera,Tomato Basil BLT,Entree,750,45,9,1600,65,6,23,3,2,0,0,2,0,0,0,0,0
+Panera,Grilled Chicken & Avo BLT,Entree,890,54,16,1600,55,3,47,7,2,0,2,2,0,0,0,0,0
+Panera,Bacon Turkey Bravo,Entree,830,39,13,2520,76,10,45,3,2,0,2,2,0,0,0,0,0
+Panera,Balsamic Greens with Grains,Entree,470,26,6,780,46,11,12,9,2,0,2,0,0,0,0,0,0
+Panera,Balsamic Chicken Greens with Grains,Entree,600,31,7,1270,49,12,36,9,2,0,2,0,0,0,0,0,0
+Panera,Greek Salad,Entree,420,36,9,1130,17,8,8,5,0,0,2,0,0,0,0,0,0
+Panera,Greek Salad with Chicken,Entree,540,39,9,1620,20,8,32,6,0,0,2,0,0,0,0,0,0
+Panera,Ranch Parm BLT,Entree,650,49,13,1610,31,8,22,4,2,0,2,2,0,0,0,0,0
+Panera,Mediterranean Greens with Grains,Entree,540,39,7,820,41,6,11,7,2,0,2,0,0,0,0,0,2
+Panera,Mediterranean Chicken Greens with Grains,Entree,670,41,8,1310,43,6,35,7,2,0,2,0,0,0,0,0,2
+Panera,Caesar Salad,Entree,420,30,8,870,24,4,12,4,2,0,2,2,0,0,2,0,0
+Panera,Chicken Caesar Salad,Entree,540,32,9,1370,26,5,36,5,2,0,2,2,0,0,2,0,0
+Panera,Asian Sesame Chicken Salad,Entree,440,24,3.5,950,28,6,31,7,2,0,0,0,0,2,0,0,2
+Panera,Southwest Chicken Ranch Salad,Entree,670,47,7,990,36,10,30,11,0,0,2,2,0,0,0,0,0
+Panera,Fuji Apple Chicken Salad,Entree,550,32,6,880,37,22,30,6,0,0,2,0,0,2,0,0,0
+Panera,Green Goddess Chicken Cobb Salad,Entree,500,28,6,1110,23,10,40,7,0,2,2,0,0,0,0,0,0
+Panera,Harvest Medley Salad,Entree,660,37,6,620,71,31,12,6,2,0,2,0,0,2,0,0,0
+Panera,Harvest Medley Chicken Salad,Entree,780,39,7,1110,73,32,36,7,2,0,2,0,0,2,0,0,0
+Panera,Strawberry Poppyseed Chicken Salad,Entree,360,15,2,480,34,23,28,8,0,0,0,0,0,2,0,0,0
+Panera,Strawberry Chicken Caprese Salad,Entree,600,36,14,1150,22,14,46,4,0,0,2,0,0,2,0,0,0
+Panera,Italian Market Salad,Entree,680,48,17,2540,36,5,28,5,2,0,2,0,0,0,0,0,0
+Panera,Bistro French Onion Soup,Entree,290,12,6,1990,33,13,9,1,2,2,2,0,0,0,0,0,0
+Panera,Creamy Tomato Soup,Entree,370,23,13,1120,35,17,4,1,2,0,2,0,0,0,0,0,0
+Panera,Cream of Chicken & Wild Rice Soup,Entree,280,16,8,1410,27,7,8,3,2,0,2,0,0,0,0,0,0
+Panera,Homestyle Chicken Noodle Soup,Entree,180,5,1.5,1730,19,4,14,1,0,0,2,2,0,0,0,0,0
+Panera,Broccoli Cheddar Soup,Entree,360,24,19,1520,25,9,13,1,2,0,2,0,0,0,0,0,0
+Panera,Mac & Cheese,Entree,960,64,35,2300,67,15,32,0,2,0,2,2,0,0,0,0,0
+Panera,Bacon Mac & Cheese,Entree,1040,71,37,2620,68,15,37,0,2,0,2,2,0,0,0,0,0
+Panera,Rustic Baked Potato Soup,Entree,430,26,14,1660,38,6,14,2,0,0,2,0,0,0,0,0,0
+Panera,Hearty Fireside Chili,Entree,410,15,7,1730,49,8,19,9,0,0,0,0,0,0,0,0,0
+Panera,Autumn Squash Soup,Entree,330,17,7,1210,41,33,8,5,0,0,2,0,0,0,0,0,0
+Panera,Bread Bowl Bistro French Onion Soup,Entree,860,13,4.5,2490,153,10,33,5,2,2,2,0,0,0,0,0,0
+Panera,Bread Bowl Tomato Soup,Entree,920,20,9,1930,155,14,30,5,2,0,2,0,0,0,0,0,0
+Panera,Bread Bowl Cream of Chicken & Wild Rice Soup,Entree,860,15,6,2100,149,7,32,6,2,0,2,0,0,0,0,0,0
+Panera,Bread Bowl Homestyle Chicken Noodle Soup,Entree,790,8,1.5,2310,143,4,36,5,2,0,0,2,0,0,0,0,0
+Panera,Bread Bowl Broccoli Cheddar Soup,Entree,910,20,13,2170,147,8,35,5,2,0,2,0,0,0,0,0,0
+Panera,Bread Bowl Mac & Cheese,Entree,1150,36,18,2310,164,9,43,4,2,0,2,2,0,0,0,0,0
+Panera,Bread Bowl Bacon Mac & Cheese,Entree,1190,40,19,2470,164,10,45,4,2,0,2,2,0,0,0,0,0
+Panera,Bread Bowl Rustic Baked Potato Soup,Entree,940,21,9,2210,155,6,36,6,2,0,2,0,0,0,0,0,0
+Panera,Bread Bowl Hearty Fireside Chili,Entree,940,14,5,2310,163,7,40,11,2,0,0,0,0,0,0,0,0
+Panera,Bread Bowl Autumn Squash Soup,Entree,880,15,5,1970,158,24,32,8,2,0,2,0,0,0,0,0,0
+Arby's,Curly Fries,Side,410,22,3,940,49,0,5,5,2,1,1,1,0,0,0,0,0
+Arby's,Potato Cakes,Side,370,21,3,650,35,0,3,4,1,1,1,1,0,0,0,0,0
+Arby's,Mozzarella Sticks,Side,440,23,9,1410,37,3,19,2,2,1,2,1,0,0,0,0,0
+Arby's,Jalapeno Bites,Side,290,17,6,660,31,3,5,2,2,1,2,1,0,0,0,0,0
+Arby's,Classic Roast Beef,Entree,360,14,5,970,37,5,23,2,2,2,0,0,0,0,0,0,2
+Arby's,Double Roast Beef,Entree,510,24,9,1610,38,5,38,2,2,2,0,0,0,0,0,0,2
+Arby's,Half Pound Roast Beef,Entree,610,30,12,2040,38,5,48,2,2,2,0,0,0,0,0,0,2
+Arby's,Classic Beef N'Cheddar,Entree,450,21,6,1270,43,9,23,2,2,2,2,0,0,0,0,0,2
+Arby's,Double Beef N'Cheddar,Entree,630,33,11,2090,46,10,39,2,2,2,2,0,0,0,0,0,2
+Arby's,Half Pound Beef N'Cheddar,Entree,730,40,14,2520,46,10,49,2,2,2,2,0,0,0,0,0,2
+Arby's,Classic French Dip & Swiss,Entree,600,33,11,2110,46,4,29,3,2,2,2,0,0,0,0,0,0
+Arby's,Smokehouse Brisket,Entree,590,29,11,1190,48,13,35,3,2,0,2,2,0,0,0,0,1
+Arby's,Deluxe Burger,Entree,600,33,15,1370,45,13,31,3,2,2,2,2,0,0,0,0,1
+Arby's,Double Deluxe Burger,Entree,880,56,25,1830,45,13,50,3,2,2,2,2,0,0,0,0,1
+Arby's,Big Cheesy Bacon Burger,Entree,710,41,19,1880,45,14,40,1,2,2,2,2,0,0,0,0,1
+Arby's,Double Big Cheesy Bacon Burger,Entree,990,64,28,2350,45,14,59,3,2,2,2,2,0,0,0,0,1
+Arby's,Crispy Chicken Sandwich,Entree,530,22,4.5,1410,59,13,24,4,2,0,0,2,0,0,0,0,1
+Arby's,Buffalo Chicken Sandwich,Entree,530,22,4.5,2090,59,12,23,4,2,0,2,2,0,0,0,0,1
+Arby's,Chicken Bacon Swiss Sandwich,Entree,650,30,9.5,1760,61,14,35,4,2,0,2,2,0,0,0,0,1
+Arby's,Chicken Cordon Bleu,Entree,650,30,9,1790,59,11,35,4,2,0,2,2,0,0,0,0,1
+Arby's,Ham & Swiss Melt,Entree,380,13,5,1370,40,5,26,2,2,0,2,2,0,0,0,0,2
+Arby's,Roast Turkey Ranch & Bacon Sandwich,Entree,800,34,10,2480,79,16,46,5,2,2,2,2,0,0,0,0,0
+Arby's,Greek Gyro,Entree,700,44,13,1370,55,6,23,4,2,2,2,2,0,0,0,0,0
+Arby's,Roast Beef Gyro,Entree,540,29,7,1300,48,5,24,3,2,2,2,2,0,0,0,0,0
+McDonald's,World Famous Fries,Side,320,15,2,260,43,0,5,4,2,0,2,0,0,0,1,0,0
+McDonald's,Apple Slices,Side,15,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0
+McDonald's,Hamburger,Entree,250,9,3.5,510,30,5,12,1,2,0,0,0,0,0,0,0,1
+McDonald's,Cheeseburger,Entree,300,13,6,720,31,6,15,2,2,2,2,0,0,0,0,0,1
+McDonald's,McDouble,Entree,390,20,9,920,32,6,22,2,2,2,2,0,0,0,0,0,1
+McDonald's,Daily Double,Entree,490,31,11,810,30,5,22,2,2,2,2,2,0,0,0,0,1
+McDonald's,Double Cheeseburger,Entree,440,24,11,1120,34,6,25,2,2,2,2,1,0,0,0,0,1
+McDonald's,Quarter Pounder with Cheese,Entree,520,26,12,1140,42,10,30,2,2,2,2,1,0,0,0,0,2
+McDonald's,Quarter Pounder with Cheese Deluxe,Entree,630,37,14,1210,44,11,30,3,2,2,2,2,0,0,0,0,2
+McDonald's,Bacon Quarter Pounder with Cheese Deluxe,Entree,630,35,15,1470,43,10,36,3,2,2,2,0,0,0,0,0,2
+McDonald's,Double Quarter Pounder with Cheese,Entree,740,42,20,1360,43,10,48,2,2,2,2,0,0,0,0,0,2
+McDonald's,Big Mac,Entree,580,34,11,1060,45,7,25,3,2,2,2,2,0,0,0,0,2
+McDonald's,McChicken,Entree,390,21,3.5,560,38,4,14,1,2,0,0,2,0,0,1,0,1
+McDonald's,McCrispy,Entree,470,20,5,1140,46,9,26,1,2,0,2,0,0,0,1,0,1
+McDonald's,Spicy McCrispy,Entree,530,26,4,1320,48,9,27,2,2,0,0,2,0,0,1,0,1
+McDonald's,Deluxe McCrispy,Entree,530,26,4,1050,48,10,27,2,2,0,0,2,0,0,1,0,1
+McDonald's,Spicy Deluxe McCrispy,Entree,530,26,4,1200,49,10,27,2,2,0,0,2,0,0,1,0,1
+McDonald's,Hot Honey McCrispy,Entree,660,34,5,1610,62,17,33,2,0,0,2,2,0,0,1,0,1
+McDonald's,Bacon Hot Honey McCrispy,Entree,770,43,8,1730,63,18,32,2,2,0,0,2,0,0,1,0,1
+McDonald's,Filet-O-Fish,Entree,380,19,4,580,38,4,16,1,2,2,2,2,0,0,1,0,1
+McDonald's,Chicken McNuggets,Entree,410,24,4,850,26,0,23,1,2,0,0,0,0,0,1,0,0
+McDonald's,McCrispy Strips,Entree,460,23,3.5,1470,24,1,40,2,2,0,0,0,0,0,1,0,0
+Burger King,French Fries,Side,370,16,2,270,54,1,5,4,1,1,1,1,0,0,1,0,0
+Burger King,Onion Rings,Side,360,16,2.5,620,48,5,4,5,2,2,1,1,0,0,1,0,0
+Burger King,Chicken Fries,Side,280,17,2.5,850,20,1,13,1,2,2,1,1,0,0,1,0,0
+Burger King,Mozzarella Fries,Side,240,12,4,790,24,2,10,1,2,2,2,1,0,0,1,0,0
+Burger King,Mott's Applesauce,Side,50,0,0,0,13,11,0,1,0,0,0,0,0,0,0,0,0
+Burger King,Hamburger,Entree,250,10,4,560,29,7,13,1,2,2,0,0,0,0,0,0,
+Burger King,Cheeseburger,Entree,290,13,6,780,31,7,15,1,2,2,2,0,0,0,0,0,
+Burger King,Double Cheeseburger,Entree,400,21,9,810,32,8,24,1,2,2,2,0,0,0,0,0,
+Burger King,Rodeo Burger,Entree,340,17,5,635,51,11,16,3,2,2,1,1,0,0,1,0,2
+Burger King,Rodeo Double Cheeseburger,Entree,530,32,14,1160,37,11,32,3,2,2,2,1,0,0,1,0,2
+Burger King,Whopper Jr,Entree,330,19,5,560,30,7,15,2,2,2,0,2,0,0,0,0,2
+Burger King,Whopper,Entree,670,41,12,1170,54,14,32,3,2,2,0,2,0,0,0,0,2
+Burger King,Double Whopper Jr,Entree,450,28,11,625,32,7,27,2,2,2,0,2,0,0,0,0,2
+Burger King,Double Whopper ,Entree,920,60,20,1240,58,15,53,3,2,2,0,2,0,0,0,0,2
+Burger King,Bacon Double Cheeseburger,Entree,440,24,11,970,32,8,27,1,2,2,2,2,0,0,0,0,2
+Burger King,BBQ Bacon Whopper Jr,Entree,390,24,7,730,32,10,18,2,2,2,2,2,0,0,0,0,2
+Burger King,Impossible Whopper,Entree,630,34,10,1350,62,14,29,6,2,2,0,2,0,0,0,0,2
+Burger King,Texas Double Whopper,Entree,1090,75,25,2050,57,17,61,4,2,2,2,2,0,0,0,0,2
+Burger King,Triple Whopper,Entree,1170,78,29,1300,62,17,74,3,2,2,0,2,0,0,0,0,2
+Burger King,Bacon King,Entree,1200,83,32,2240,50,8,63,2,2,2,2,2,0,0,0,0,2
+Burger King,Chicken Jr,Entree,440,27,5,800,39,5,13,2,2,2,1,2,0,0,1,0,2
+Burger King,Original Chicken Sandwich,Entree,680,40,7,1380,63,8,23,3,2,2,2,2,0,0,1,0,2
+Burger King,Royal Crispy Chicken,Entree,600,33,5,1250,54,10,30,3,2,2,2,2,0,0,1,0,2
+Burger King,Spicy Royal Crispy Chicken,Entree,760,54,10,1520,57,11,31,4,2,2,2,2,0,0,1,0,2
+Burger King,Bacon & Swiss Royal Crispy Chicken,Entree,740,50,11,1790,55,8.5,38,3,2,2,2,2,0,0,1,0,2
+Burger King,Big Fish,Entree,570,30,5,1270,58,8,19,3,2,2,1,2,0,0,2,0,2
+Burger King,Chicken Nuggets,Entree,390,25,5,990,23,0,18,2,2,1,1,1,0,0,1,0,0
+Burger King,Royal Crispy Wrap,Entree,310,17,3,790,28,2,15,2,2,2,2,2,0,0,1,0,0
+Burger King,Spicy Royal Crispy Wrap,Entree,390,25,5,920,30,3,15,5,2,2,2,2,0,0,1,0,0
+Wendy's,French Fries,Side,350,16,2.5,550,47,0,5,4,0,0,0,0,0,0,0,0,0
+Wendy's,Cheese Fries,Side,470,27,10,1120,44,1,12,3,0,2,2,0,0,0,0,0,0
+Wendy's,Baconator Fries,Side,450,25,8,1000,42,1,14,1,0,2,2,0,0,0,0,0,0
+Wendy's,Chili Cheese Fries,Side,510,27,9,1260,49,3,18,5,0,2,2,0,0,0,0,0,0
+Wendy's,Chili,Side,280,12,4.5,1050,24,6,19,3,0,2,2,0,0,0,0,0,0
+Wendy's,Plain Baked Potato,Side,270,0,0,40,61,3,7,7,0,0,0,0,0,0,0,0,0
+Wendy's,Sour Cream & Chive Baked Potato,Side,300,2.5,1.5,55,63,4,8,7,0,0,2,0,0,0,0,0,0
+Wendy's,Bacon & Cheese Baked Potato,Side,420,12,6,570,64,4,17,7,0,2,2,0,0,0,0,0,0
+Wendy's,Chili Cheese Baked Potato,Entree,490,14,7,830,70,6,21,8,0,2,2,0,0,0,0,0,0
+Wendy's,Jr Hamburger,Entree,230,10,4,470,24,5,12,1,2,2,0,2,0,0,0,0,2
+Wendy's,Jr Cheeseburger,Entree,270,13,6,660,25,5,14,1,2,2,2,2,0,0,0,0,2
+Wendy's,Jr Cheeseburger Deluxe,Entree,330,19,7,660,26,6,15,1,2,2,2,2,0,0,0,0,2
+Wendy's,Jr Bacon Cheeseburger,Entree,350,21,8,640,24,5,18,1,2,2,2,2,0,0,0,0,2
+Wendy's,Bacon Double Stack,Entree,420,24,10,880,25,5,26,1,2,2,2,2,0,0,0,0,2
+Wendy's,Dave's Single,Entree,560,34,14,1110,35,7,29,2,2,2,2,2,0,0,0,0,2
+Wendy's,Dave's Double,Entree,810,53,22,1350,35,7,49,2,2,2,2,2,0,0,0,0,2
+Wendy's,Dave's Triple,Entree,1100,75,32,1770,36,8,71,2,2,2,2,2,0,0,0,0,2
+Wendy's,Son of Baconator,Entree,590,37,14,1200,34,7,33,1,2,2,2,2,0,0,0,0,2
+Wendy's,Baconator,Entree,900,59,24,1570,34,7,57,1,2,2,2,2,0,0,0,0,2
+Wendy's,Big Bacon Classic,Entree,610,38,15,1280,36,8,34,2,2,2,2,2,0,0,0,0,2
+Wendy's,Big Bacon Classic Double,Entree,860,56,23,1510,36,8,53,2,2,2,2,2,0,0,0,0,2
+Wendy's,Big Bacon Classic Triple,Entree,1140,78,33,1940,37,8,75,2,2,2,2,2,0,0,0,0,2
+Wendy's,Asiago Ranch Classic Chicken Club,Entree,600,30,8,1540,45,6,37,2,2,0,2,2,0,0,0,0,2
+Wendy's,Classic Chicken Sandwich,Entree,480,21,3.5,1320,44,5,29,2,2,0,2,2,0,0,0,0,2
+Wendy's,Spicy Chicken Sandwich,Entree,470,20,3.5,1080,44,5,28,2,2,0,2,2,0,0,0,0,2
+Wendy's,Crispy Chicken BLT,Entree,420,23,6,940,34,5,20,1,2,2,2,2,0,0,0,0,2
+Wendy's,Crispy Chicken Sandwich,Entree,340,17,3,640,32,4,15,1,2,0,2,2,0,0,0,0,2
+Wendy's,Chicken Nuggets,Entree,170,11,2.5,360,9,0,9,0,2,0,0,0,0,0,0,0,0
+Wendy's,Spicy Chicken Nuggets,Entree,190,12,3,480,9,0,10,1,2,0,0,0,0,0,0,0,0
+Wendy's,Chicken Tenders,Entree,420,22,3.5,1050,22,0,33,1,2,0,0,0,0,0,0,0,0
+Wendy's,Grilled Chicken Wrap,Entree,410,16,5,1100,41,1,28,1,2,0,2,2,0,0,0,0,0
+Wendy's,Parmesan Caesar Salad,Entree,510,36,9.5,1240,14,3,33,3,2,0,2,2,0,0,2,0,0
+Wendy's,Apple Pecan Salad,Entree,540,27,11,1380,44,33,32,5,2,2,2,0,0,2,0,0,0
+Wendy's,Taco Salad,Entree,620,40,13,1510,39,13,28,8,0,2,2,2,0,0,0,0,0
+Wendy's,Cobb Salad,Entree,660,49,12.5,1170,18,5,38,3,2,0,2,2,0,0,0,0,0
+Chick-fil-A,Waffle Potato Fries,Side,420,24,4,240,45,1,5,5,0,0,0,0,0,0,0,0,0
+Chick-fil-A,Mac & Cheese,Side,450,29,16,1190,28,3,20,3,2,2,2,2,0,0,0,0,0
+Chick-fil-A,Chicken Noodle Soup,Side,170,4,1,1220,25,1,10,1,2,2,2,2,0,0,0,0,0
+Chick-fil-A,Chicken Tortilla Soup,Side,350,11,2.5,1115,18,4,25,18,2,2,2,2,0,0,0,0,0
+Chick-fil-A,Side Salad,Side,470,42,8,700,14,5,6,4,2,0,2,2,0,0,0,0,0
+Chick-fil-A,Kale Crunch Side,Side,170,12,1.5,250,13,8,4,4,0,0,0,0,0,2,0,0,0
+Chick-fil-A,Berry Parfait,Side,270,9,3.5,85,35,26,13,1,0,0,2,0,0,2,0,0,0
+Chick-fil-A,Fruit Cup,Side,60,0,0,0,14,11,1,2,0,0,0,0,0,0,0,0,0
+Chick-fil-A,Chicken Sandwich,Entree,420,18,3.5,1460,41,6,29,1,2,2,2,2,0,0,0,0,2
+Chick-fil-A,Deluxe Sandwich,Entree,490,22,6,1700,43,7,32,1,2,2,2,2,0,0,0,0,2
+Chick-fil-A,Spicy Chicken Sandwich,Entree,450,19,4,1730,45,6,32,1,2,2,2,2,0,0,0,0,2
+Chick-fil-A,Spicy Deluxe Sandwich,Entree,540,26,8,1880,47,7,34,2,2,2,2,2,0,0,0,0,2
+Chick-fil-A,Grilled Chicken Sandwich,Entree,390,11,2.5,765,45,11,28,3,2,0,0,2,0,0,0,0,2
+Chick-fil-A,Grilled Chicken Club Sandwich,Entree,520,22,8,1055,45,12,37,3,2,0,2,2,0,0,0,0,2
+Chick-fil-A,Nuggets,Entree,250,11,2.5,1210,11,1,27,0,2,0,2,2,0,0,0,0,0
+Chick-fil-A,Grilled Nuggets,Entree,130,3,0.5,440,1,1,25,0,0,0,0,0,0,0,0,0,0
+Chick-fil-A,Chick-n Strips,Entree,310,14,2.5,870,16,2,29,0,2,0,2,2,0,0,0,0,0
+Chick-fil-A,Cool Wrap,Entree,350,13,4,900,29,3,42,13,2,2,2,0,0,0,0,0,2
+Chick-fil-A,Market Salad with Grilled Chicken,Entree,550,31,6,1010,42,26,28,5,0,0,2,0,0,2,0,0,0
+Chick-fil-A,Spicy Southwest Salad with Grilled Nuggets,Entree,700,49,10,1290,26,7,39,7,0,0,2,2,0,0,0,0,0
+Chick-fil-A,Cobb Salad with Chick-n-Strips,Entree,890,63,13,1880,37,9,44,5,2,0,2,2,0,0,0,0,0
+Popeyes,Cajun Fries,Side,270,14,5,590,33,0,4,3,2,1,1,1,0,0,0,1,0
+Popeyes,Homestyle Mac & Cheese,Side,280,21,21,510,16,3,11,0,2,2,2,2,0,0,0,0,0
+Popeyes,Mashed Potatoes with Cajun Gravy,Side,110,4,2,590,18,1,3,1,2,0,2,0,0,0,0,0,0
+Popeyes,Biscuit,Side,210,13,6,440,20,1,3,1,2,2,2,0,0,0,0,0,0
+Popeyes,Coleslaw,Side,140,10,2,190,12,9,1,1,0,2,0,2,0,0,0,0,0
+Popeyes,Red Beans & Rice,Side,250,16,5,610,22,0,8,6,0,0,0,0,0,0,0,0,0
+Popeyes,Jalepeno Pepper,Side,5,0,0,370,1,1,0,0,0,0,0,0,0,0,0,0,0
+Popeyes,Signature Chicken,Entree,820,50,20,2230,28,0,63,4,2,2,2,2,0,0,0,1,0
+Popeyes,Tenders,Entree,390,19,9,1700,40,0,35,1,2,2,2,2,0,0,0,1,0
+Popeyes,Classic Chicken Sandwich,Entree,700,42,14,1440,50,8,28,2,2,2,2,2,0,0,0,1,1
+Popeyes,Spicy Chicken Sandwich,Entree,700,42,14,1470,50,8,28,2,2,2,2,2,0,0,0,1,1
+Popeyes,Classic Boneless Wings,Entree,480,34,16,990,23,1,27,2,2,2,2,2,0,0,0,1,0
+Popeyes,Honey BBQ Boneless Wings,Entree,660,34,16,1800,72,46,27,2,2,2,2,2,0,0,0,1,0
+Popeyes,Signature Hot Boneless Wings,Entree,1020,82,25,1910,46,12,28,2,2,2,2,2,0,0,0,1,0
+Popeyes,Sweet & Spicy Boneless Wings,Entree,720,34,16,2360,79,50,27,2,2,2,2,2,0,0,0,1,0
+Popeyes,Popcorn Shrimp,Entree,390,25,8,1390,28,0,14,3,2,1,2,2,0,0,0,2,0
+KFC,Sweet Corn,Side,70,0.5,0,0,16,2,2,2,0,0,0,0,0,0,0,0,0
+KFC,Chicken Little,Entree,350,16,2,730,49,6,34,0,2,2,2,2,0,0,0,0,2
+KFC,Famous Bowl,Entree,590,22,5,2160,39,3,15,4,2,2,2,2,0,0,0,0,0
+KFC,Chicken Pot Pie,Entree,720,41,25,1750,67,3,31,7,2,2,2,2,0,0,0,0,0
+Taco Bell,Nacho Fries,Side,330,19,1.5,770,36,1,4,4,2,0,2,0,0,0,0,0,0
+Taco Bell,Cheesy Fiesta Potatoes,Side,240,13,2,520,28,0,3,3,2,0,2,0,0,0,0,0,0
+Taco Bell,Black Beans,Side,50,1.5,0,140,7,0,3,4,0,0,0,0,0,0,0,0,0
+Taco Bell,Black Beans & Rice,Side,160,4.5,0,370,25,0,4,5,0,0,0,0,0,0,0,0,0
+Taco Bell,Pintos n Cheese,Side,170,7,3,690,19,7,9,7,0,0,2,0,0,0,0,0,0
+Taco Bell,Chips and Nacho Cheese Sauce,Side,220,13,1.5,280,24,1,3,2,1,0,2,0,0,0,0,0,0
+Taco Bell,Chips and Guacamole,Side,250,16,2,240,22,1,3,4,1,0,0,0,0,0,0,0,0
+Taco Bell,Cinnamon Twists,Side,170,6,0.5,115,27,10,1,0,2,0,0,0,0,0,0,0,0
+Taco Bell,Soft Taco,Entree,180,8,4,500,18,1,9,3,2,2,2,0,0,0,0,0,0
+Taco Bell,Crunchy Taco,Entree,170,9,4,310,13,0,7,3,1,2,2,0,0,0,0,0,0
+Taco Bell,Nacho Cheese Doritos Locos Tacos,Entree,170,10,4,370,13,3,7,3,1,2,2,0,0,0,0,0,0
+Taco Bell,Cheesy Gordita Crunch,Entree,490,28,11,850,42,4,20,5,2,2,2,2,0,0,0,0,0
+Taco Bell,Double Stacked Taco,Entree,320,16,5,610,34,2,10,4,2,2,2,0,0,0,0,0,0
+Taco Bell,Chalupa Supreme,Entree,350,20,5,580,31,3,12,4,2,2,2,0,0,0,0,0,0
+Taco Bell,Chicken Chalupa Supreme,Entree,325,17,4,570,29,3,16,3,2,2,2,0,0,0,0,0,0
+Taco Bell,Black Bean Chalupa Supreme,Entree,340,17,3.5,460,36,4,10,6,2,2,2,0,0,0,0,0,0
+Taco Bell,Spicy Soft Potato Taco,Entree,240,12,3,470,28,1,5,2,2,2,2,2,0,0,0,0,0
+Taco Bell,Cantina Chicken Soft Taco,Entree,240,10,3.5,530,18,2,12,2,2,0,2,2,0,0,0,0,0
+Taco Bell,Cantina Chicken Crispy Taco,Entree,280,16,6,530,17,0,15,3,0,0,2,2,0,0,0,0,0
+Taco Bell,Frank's RedHot Diablo Crispy Chicken Soft Taco,Entree,250,11,3,710,27,2,11,3,2,0,2,2,0,0,0,0,0
+Taco Bell,Cheesy Bean and Rice Burrito,Entree,420,17,4.5,940,55,3,9,6,2,0,2,2,0,0,0,0,0
+Taco Bell,Bean Burrito,Entree,360,10,4.5,1080,54,3,13,8,2,0,2,0,0,0,0,0,0
+Taco Bell,Cheesy Double Beef Burrito,Entree,560,25,10,1350,63,3,21,7,2,2,2,2,0,0,0,0,0
+Taco Bell,Chicken Enchilada Burrito,Entree,380,12,6,1140,49,3,19,3,2,0,2,0,0,0,0,0,0
+Taco Bell,Beefy 5-Layer Burrito,Entree,490,18,8,1290,65,4,17,7,2,2,2,0,0,0,0,0,0
+Taco Bell,Burrito Supreme,Entree,390,14,7,1160,51,4,16,7,2,2,2,0,0,0,0,0,0
+Taco Bell,Grilled Cheese Burrito,Entree,710,39,16,1510,64,4,25,6,2,2,2,2,0,0,0,0,0
+Taco Bell,Black Bean Grilled Cheese Burrito,Entree,690,37,14,1390,68,5,23,8,2,0,2,2,0,0,0,0,0
+Taco Bell,Cantina Chicken Burrito,Entree,540,31,9,1180,42,4,24,5,2,0,2,2,0,0,0,0,0
+Taco Bell,Frank's RedHot Diablo Crispy Chicken Burrito,Entree,580,27,7,1680,60,5,23,6,2,0,2,2,0,0,0,0,0
+Taco Bell,Crispy Chicken Burrito - Avocado Ranch,Entree,660,36,9,1500,59,4,24,6,2,0,2,2,0,0,0,0,0
+Taco Bell,Cheesy Roll Up,Entree,180,9,6,430,17,1,8,1,2,0,2,0,0,0,0,0,0
+Taco Bell,Stacker,Entree,400,18,9,1070,42,3,17,4,2,2,2,0,0,0,0,0,0
+Taco Bell,3-Cheese Chicken Flatbread Melt,Entree,330,15,6,750,28,4,20,2,2,2,2,2,0,0,0,0,0
+Taco Bell,Mexican Pizza,Entree,530,28,8,1010,50,3,19,8,2,2,2,0,0,0,0,0,0
+Taco Bell,Veggie Mexican Pizza,Entree,460,24,7,750,47,3,14,6,2,0,2,0,0,0,0,0,0
+Taco Bell,Crunchwrap Supreme,Entree,530,20,7,1220,73,6,15,6,2,2,2,0,0,0,0,0,0
+Taco Bell,Black Bean Crunchwrap Supreme,Entree,520,17,5,1090,77,6,13,8,2,0,2,0,0,0,0,0,0
+Taco Bell,Steak Garlic Nacho Fries,Entree,490,31,5,1200,39,3,12,4,2,0,2,2,0,0,0,0,0
+Taco Bell,Frank's RedHot Diablo Chicken Nacho Fries,Entree,450,26,4,1270,40,3,13,5,2,0,2,2,0,0,0,0,0
+Taco Bell,Quesarito,Entree,570,24,12,1340,67,4,20,5,2,2,2,0,0,0,0,0,0
+Taco Bell,Steak Cheesy Dipping Burritos,Entree,480,25,12,1370,35,4,29,2,2,0,2,2,0,0,0,0,0
+Taco Bell,Slow Roasted Chicken Cheesy Dipping Burritos,Entree,490,26,11,1240,36,3,29,4,2,0,2,2,0,0,0,0,0
+Taco Bell,Cheese Quesadilla,Entree,470,24,13,1000,41,3,18,3,2,0,2,2,0,0,0,0,0
+Taco Bell,Chicken Quesadilla,Entree,510,26,13,1250,41,3,26,3,2,0,2,2,0,0,0,0,0
+Taco Bell,Steak Quesadilla,Entree,520,27,14,1270,42,4,26,3,2,0,2,2,0,0,0,0,0
+Taco Bell,Cantina Chicken Quesadilla,Entree,570,32,16,1340,42,3,29,4,2,0,2,2,0,0,0,0,0
+Taco Bell,Nachos BellGrande,Entree,730,39,6,1180,80,4,17,13,0,2,2,0,0,0,0,0,0
+Taco Bell,Loaded Beef Nachos,Entree,450,25,5,930,44,2,12,9,0,2,2,0,0,0,0,0,0
+Taco Bell,Cantina Chicken Bowl,Entree,480,24,7,1170,43,3,24,10,0,0,2,2,0,0,0,0,0
+Taco Bell,Veggie Bowl,Entree,410,20,6,850,47,3,12,11,0,0,2,2,0,0,0,0,0
+Chipotle,Chips and Guacamole,Side,770,47,7,760,81,2,9,13,0,0,0,0,0,0,0,0,0
+Chipotle,Chips and Queso Blanco,Side,780,43,15.5,880,80,3,17,7,0,0,2,0,0,0,0,0,0
+Chipotle,Veggie Bowl #1,Entree,730,31,3.5,1760,96,9,18,21,0,0,0,0,0,0,0,0,0
+Chipotle,Veggie Bowl #2,Entree,1070,55,22.5,2930,107,12,31,20,0,0,2,0,0,0,0,0,0
+Chipotle,Sofrita Bowl #2,Entree,880,41,5,2860,105,13,26,23,0,2,0,0,0,0,0,0,0
+Chipotle,Chicken Bowl #1,Entree,910,38,6.5,2610,96,10,50,21,0,0,0,0,0,0,0,0,0
+Chipotle,Chicken Bowl #2,Entree,1250,62,25,3240,107,13,63,20,0,0,2,0,0,0,0,0,0
+Chipotle,Chicken Al Pastor Bowl,Entree,1040,50,12.5,3630,105,9,47,20,0,0,2,0,0,0,0,0,0
+Chipotle,High Protein Chicken Bowl,Entree,1090,45,9.5,2920,96,10,82,21,0,0,0,0,0,0,0,0,0
+Chipotle,Steak Bowl #1,Entree,880,37,6,2950,97,10,39,21,0,0,0,0,0,0,0,0,0
+Chipotle,Steak Bowl #2,Entree,1220,61,25,3260,108,13,52,20,0,0,2,0,0,0,0,0,0
+Chipotle,Beef Barbacoa Bowl,Entree,1120,55,18,2850,101,8,50,20,0,0,2,0,0,0,0,0,0
+Chipotle,Carnitas Bowl,Entree,995,47,13,2845,97,10,44,21,0,0,2,0,0,0,0,0,0
+Chipotle,Bean Burrito #1,Entree,1045,40,4,2360,140,9,26,24,2,0,0,0,0,0,0,0,0
+Chipotle,Bean Burrito #2,Entree,1385,66,22,2830,152,12,39,23,2,0,2,0,0,0,0,0,0
+Chipotle,Chicken Burrito #1,Entree,1225,47,7,3210,158,10,77,24,2,0,0,0,0,0,0,0,0
+Chipotle,Chicken Burrito #2,Entree,1680,79,25.5,3680,145,13,58,23,2,0,2,0,0,0,0,0,0
+Chipotle,High Protein Chicken Burrito,Entree,1405,54,10,3520,145,10,90,24,2,0,0,0,0,0,0,0,0
+Chipotle,Double Steak Bowl,Entree,1030,43,8.5,3280,98,10,60,21,0,0,0,0,0,0,0,0,0
+Chipotle,Double Steak Burrito,Entree,1275,55,9,3880,127,10,63,24,2,0,0,0,0,0,0,0,0
+Chipotle,Bean Taco #1,Entree,450,15,1.5,1305,66,5,12,15,0,0,0,0,0,0,0,0,0
+Chipotle,Bean Taco #2,Entree,615,19.5,2.5,1470,99,4,15,18,0,0,0,0,0,0,0,0,0
+Chipotle,Sofrita Taco,Entree,855,33,6.5,2355,108,9,24,21,2,2,0,0,0,0,0,0,0
+Chipotle,Chicken Taco #1,Entree,630,22.5,6,1590,66,5,33,15,0,0,0,0,0,0,0,0,0
+Chipotle,Chicken Taco #2,Entree,795,27,7,1755,99,4,36,18,0,0,0,0,0,0,0,0,0
+Chipotle,Chicken Al Pastor Taco,Entree,900,34.5,12,2565,108,11,33,18,2,0,0,0,0,0,0,0,0
+Chipotle,Barbacoa Tacos,Entree,870,31.5,9,2505,105,4.5,39,18,2,0,0,0,0,0,0,0,0
+Chipotle,Carnitas Taco,Entree,900,40.5,13,2235,105,5,33,18,2,0,0,0,0,0,0,0,0
+Chipotle,Cheese Quesadilla,Entree,1040,64,31,2680,72,5,31,9,2,0,2,0,0,0,0,0,0
+Chipotle,Chicken Quesadilla,Entree,1220,71,33,3050,73,5,63,9,2,0,2,0,0,0,0,0,0
+Chipotle,Steak Quesadilla,Entree,1190,68,33,3120,73,5,52,9,2,0,2,0,0,0,0,0,0
+Chipotle,Salad,Entree,820,49,11,2650,75,21,21,19,0,0,2,0,0,0,0,0,0
+Chipotle,Chicken Salad,Entree,1000,56,15,2960,63,20,53,19,0,0,2,0,0,0,0,0,0
+Chipotle,Steak Salad,Entree,970,55,15,2980,76,20,39,18,0,0,2,0,0,0,0,0,0
+Domino's,Boneless Chicken,Side,170,7,1.5,660,18,1,9,0,2,1,1,1,1,1,0,0,0
+Domino's,Plain Wings,Side,250,20,5,720,8,0,14,0,1,1,1,1,1,1,0,0,0
+Domino's,Hot Buffalo Wings,Side,260,20,5,1520,9,0,15,0,1,1,1,1,1,1,0,0,0
+Domino's,Honey BBQ Wings,Side,310,20,5,940,22,13,15,0,1,1,1,1,1,1,0,0,0
+Domino's,Sweet Mango Habanero Wings,Side,310,20,5,790,21,10,15,0,1,1,1,1,1,1,0,0,0
+Domino's,Garlic Parmesan Wings,Side,390,34,8,960,10,1,15,0,1,1,2,2,1,1,0,0,0
+Domino's,Loaded Chicken - Classic Hot Buffalo,Side,190,11,3.5,1030,14,1,9,0,2,1,2,2,1,1,0,0,0
+Domino's,Loaded Chicken - Sweet BBQ Bacon,Side,210,10,3.5,790,20,7,11,0,2,1,2,1,1,1,0,0,0
+Domino's,Loaded Chicken - Spicy Jalapeno and Pineapple,Side,190,8,2.5,670,21,7,9,0,2,1,2,1,1,1,0,0,0
+Domino's,Loaded Chicken - Crispy Bacon and Tomato,Side,260,17,5,810,14,1,11,0,2,1,2,2,1,1,0,0,0
+Domino's,Cheddar Bacon Loaded Tots,Side,240,16,5,590,17,1,7,1,1,1,2,2,1,1,0,0,0
+Domino's,Melty 3 Cheese Loaded Tots,Side,210,13,6,510,17,1,6,1,2,2,2,1,1,1,0,0,0
+Domino's,Philly Cheese Steak Loaded Tots,Side,200,12,5,530,18,1,6,1,2,2,2,1,1,1,0,0,0
+Domino's,Parmesan Bread Bites,Side,210,9,4.5,220,27,1,5,1,2,2,2,1,1,1,0,0,0
+Domino's,Stuffed Cheesy Bread,Side,150,7,3,250,16,1,6,1,2,2,2,1,1,1,0,0,0
+Domino's,Pepperoni Stuffed Cheesy Bread,Side,170,8,3.5,310,16,1,7,1,2,2,2,1,1,1,0,0,0
+Domino's,Bacon & Jalapeno Stuffed Cheesy Bread,Side,170,8,3.5,350,17,1,7,1,2,2,2,1,1,1,0,0,0
+Domino's,Spinach & Feta Stuffed Cheesy Bread,Side,160,7,3.5,270,17,1,6,1,2,2,2,1,1,1,0,0,0
+Domino's,Classic Garden,Side,80,4,2,125,8,2,3,1,2,0,2,0,0,0,0,0,0
+Domino's,Chicken Caesar,Side,220,8,3,490,14,3,19,2,2,0,2,0,0,0,2,0,0
+Domino's,Wisconsin 6-Cheese,Entree,330,15,7,670,35,3,14,1,2,2,2,1,1,1,0,0,0
+Domino's,Ultimate Pepperoni,Entree,360,18,8,830,34,3,15,1,2,2,2,1,1,1,0,0,0
+Domino's,Pacific Veggie,Entree,310,13,6,630,35,3,12,1,2,2,2,1,1,1,0,0,0
+Domino's,Memphis BBQ Chicken,Entree,350,14,7,680,39,7,15,1,2,2,2,1,1,1,0,0,0
+Domino's,MeatZZa,Entree,370,18,8,850,34,3,15,1,2,2,2,1,1,1,0,0,0
+Domino's,People's Pizza,Entree,340,16,7,680,36,4,13,1,2,2,2,1,1,1,0,0,0
+Domino's,Honolulu Hawaiian,Entree,330,14,6,760,36,4,14,1,2,2,2,1,1,1,0,0,0
+Domino's,ExtravaganZZa,Entree,380,19,8,900,36,3,14,2,2,2,2,1,1,1,0,0,0
+Domino's,Spicy Chicken Bacon Ranch,Entree,410,22,8,1090,34,3,16,1,2,2,2,2,1,1,0,0,0
+Domino's,Spinach & Feta,Entree,320,15,8,610,33,2,13,1,2,2,2,1,1,1,0,0,0
+Domino's,Philly Cheese Steak Pizza,Entree,310,13,7,720,33,3,13,1,2,2,2,1,1,1,0,0,0
+Domino's,Chicken Alfredo Pizza,Entree,215,13,3.5,420,23,1,9,1,2,2,2,1,1,1,0,0,0
+Domino's,Veggie Alfredo Pizza,Entree,205,12,2.5,390,24,1,7,1,2,2,2,1,1,1,0,0,0
+Domino's,Buffalo Chicken Pizza,Entree,195,8,3.5,455,22,1,9,1,2,2,2,1,1,1,0,0,0
+Domino's,Thin Crust Pizza,Entree,305,12,4,525,28,2,14,2,2,2,2,1,1,1,0,0,0
+Domino's,Stuffed Crust Pizza,Entree,355,18.5,10.5,760,31,2,13,1,2,2,2,1,1,1,0,0,0
+Domino's,Pan Pizza,Entree,305,15.5,8.5,540,28,1,10,1,2,2,2,1,1,1,0,0,0
+Domino's,5-Cheese Mac & Cheese,Entree,830,50,31,1680,64,6,30,2,2,2,2,1,1,1,0,0,0
+Domino's,Spicy Buffalo 5-Cheese Mac & Cheese,Entree,840,50,31,2090,64,6,31,2,2,2,2,1,1,1,0,0,0
+Domino's,Chicken Alfredo,Entree,590,28,17,1020,60,5,24,2,2,2,2,1,1,1,0,0,0
+Domino's,Italian Sausage Marinara,Entree,680,35,15,1230,65,8,26,3,2,1,2,1,1,1,0,0,0
+Domino's,Chicken Parm Sandwich,Entree,400,15,7,1050,38,2,24,0,2,2,2,1,1,1,0,0,0
+Domino's,Buffalo Chicken Sandwich,Entree,420,20,7,1300,39,2,20,0,2,2,2,2,1,1,0,0,0
+Domino's,Chicken Bacon Ranch Sandwich,Entree,450,22,8,1190,37,2,23,0,2,2,2,2,1,1,0,0,0
+Domino's,Chicken Habanero Sandwich,Entree,390,14,7,1080,44,6,21,0,2,2,2,1,1,1,0,0,0
+Domino's,Philly Cheesesteak,Entree,380,15,8,1280,38,3,20,0,2,2,2,1,1,1,0,0,0
+Domino's,Italian Sandwich,Entree,420,20,9,1530,37,1,21,0,2,2,2,1,1,1,0,0,0
+Panda Express,Cream Cheese Rangoon,Appetizer,190,8,5,170,24,1,5,2,2,2,2,1,0,0,0,0,1
+Panda Express,Veggie Spring Roll,Appetizer,240,14,2,560,24,0,5,2,2,2,1,1,0,0,0,0,1
+Panda Express,Chicken Egg Roll,Appetizer,200,10,2,340,20,2,6,2,2,2,2,2,0,0,0,0,2
+Panda Express,White Steamed Rice,Side,520,0,0,0,110,0,10,0,0,0,0,0,0,0,0,0,0
+Panda Express,Super Greens,Side,130,4,0,370,14,6,9,7,2,2,1,1,1,1,0,1,1
+Panda Express,Fried Rice,Side,620,19,4,1000,101,4,13,1,2,2,0,2,1,1,0,1,2
+Panda Express,Chow Mein,Side,600,23,4,1000,94,11,15,7,2,2,1,1,1,1,0,1,2
+Panda Express,Orange Chicken,Entree,510,24,5,850,53,20,16,2,2,2,2,2,1,1,0,1,2
+Panda Express,Kung Pao Chicken,Entree,320,21,4,1050,15,7,17,2,2,2,1,1,2,1,0,1,2
+Panda Express,Mushroom Chicken,Entree,220,14,2.5,840,10,5,13,1,2,2,1,1,1,1,0,1,2
+Panda Express,Grilled Teriyaki Chicken,Entree,275,10,3,470,14,9,33,0,2,2,0,0,0,0,0,0,2
+Panda Express,Honey Sesame Chicken Breast,Entree,340,15,2.5,540,35,16,16,1,2,1,1,1,1,1,0,1,2
+Panda Express,String Bean Chicken Breast,Entree,210,12,2,560,13,5,12,5,2,2,1,1,1,1,0,1,2
+Panda Express,SweetFire Chicken Breast,Entree,380,12,3,370,40,14,15,2,2,1,1,1,1,1,0,1,1
+Panda Express,Broccoli Beef,Entree,150,6,2,520,12,6,15,2,2,2,1,1,1,1,0,1,2
+Panda Express,Beijing Beef,Entree,480,27,5,600,46,21,14,2,2,2,1,1,1,1,0,1,2
+Panda Express,Black Pepper Sirloin Steak,Entree,180,6,1.5,590,12,7,19,2,2,2,1,1,1,1,0,1,1
+Panda Express,Honey Walnut Shrimp,Entree,430,28,4,700,32,9,13,1,2,2,2,2,1,2,0,2,1
+Olive Garden,Fried Mozzarella,Appetizer,835,51,17,2310,61,5,33,4,2,2,2,1,0,0,0,1,0
+Olive Garden,Stuffed Ziti Fritta,Appetizer,755,50,25,1660,47,3,31,3,2,2,2,2,0,0,0,1,0
+Olive Garden,Calamari,Appetizer,945,70,8,2660,50,2,25,5,2,2,2,2,0,0,0,2,0
+Olive Garden,Shrimp Fritto Misto,Appetizer,1555,107,9.5,6070,107,11,42,9,2,2,2,2,0,0,0,2,0
+Olive Garden,Spinach Artichoke Dip,Appetizer,730,81,21,2440,75,8,33,7,2,1,2,1,0,0,0,1,0
+Olive Garden,Lasagna Fritta,Appetizer,680,76,31,1800,75,6,39,5,2,2,2,2,0,0,0,1,0
+Olive Garden,Toasted Ravioli,Appetizer,685,33,10,1550,73,7,25,4,2,2,2,2,0,0,0,1,0
+Olive Garden,Meatballs Parmigiana,Appetizer,1040,83,40,2800,27,5,51,6,2,2,2,2,0,0,0,0,0
+Olive Garden,Breadsticks,Appetizer,280,5,1,920,50,2,8,1,2,2,0,0,0,0,0,0,0
+Olive Garden,Breadsticks + Marinara,Appetizer,350,9.5,0,1560,58,7,10,3,2,2,0,0,0,0,0,0,0
+Olive Garden,Breadsticks + 5 Cheese Marinara,Appetizer,480,22,10,1570,59,7,13,2,2,2,2,0,0,0,0,0,0
+Olive Garden,Breadsticks + Alfredo,Appetizer,720,48,28,1520,55,3,16,1,2,2,2,0,0,0,0,0,0
+Olive Garden,Minestrone Soup,Side,110,10,1,810,17,4,5,4,2,2,0,0,0,0,0,0,0
+Olive Garden,Chicken & Gnocchi Soup,Side,230,12,4.5,1290,22,4,11,1,2,2,2,2,0,0,0,0,0
+Olive Garden,Pasta e Faglioli,Side,150,5,2,710,16,4,8,3,2,2,2,0,0,0,0,0,0
+Olive Garden,Zuppa Toscana,Side,220,15,7,790,15,2,7,2,2,2,2,0,0,0,0,0,0
+Olive Garden,House Salad,Side,150,10,1.5,770,13,4,3,2,2,2,2,2,0,0,0,0,0
+Olive Garden,Fettucine Alfredo,Entree,1310,90,55,1210,95,5,30,4,2,2,2,0,0,0,0,0,0
+Olive Garden,Chicken Parmigiana,Entree,1020,51,14,3300,80,13,64,7,2,2,2,1,0,0,0,1,0
+Olive Garden,Lasagna Classico,Entree,940,55,30,2260,61,11,54,6,2,2,2,0,0,0,0,0,0
+Olive Garden,Five Cheese Ziti,Entree,1170,69,36,2440,98,16,46,6,2,2,2,0,0,0,0,0,0
+Olive Garden,Eggplant Parmigiana,Entree,1070,58,14,2440,108,20,35,11,2,2,2,1,0,0,0,1,0
+Olive Garden,Cheese Ravioli - Marinara,Entree,750,38,19,2370,63,8,41,5,2,2,2,2,0,0,0,0,0
+Olive Garden,Cheese Ravioli - Meat Sauce,Entree,860,46,24,2190,65,11,50,4,2,2,2,2,0,0,0,0,0
+Olive Garden,Grilled Chicken Alfredo,Entree,1570,95,56,2290,96,6,81,5,2,0,2,0,0,0,0,0,0
+Olive Garden,Crispy Chicken Alfredo,Entree,1790,114,57,2670,123,7,70,6,2,0,2,0,0,0,0,0,0
+Olive Garden,Spaghetti with Meatballs,Entree,560,27,2.5,2110,92,17,49,7,2,2,2,2,0,0,0,0,0
+Olive Garden,Spaghetti with Marinara,Entree,490,12,1,1290,83,13,15,6,2,2,0,0,0,0,0,0,0
+Olive Garden,Spaghetti with Meat Sauce,Entree,640,22,7,1050,85,17,26,4,2,2,0,0,0,0,0,0,0
+Olive Garden,Shrimp Scampi,Entree,490,18,7,1120,52,5,29,4,2,2,2,0,0,0,0,2,0
+Olive Garden,Stuffed Chicken Marsala,Entree,1400,77,36,2580,112,12,55,4,2,2,2,0,0,0,0,0,0
+Olive Garden,Shrimp Carbonara,Entree,1180,81,46,1650,63,10,54,4,2,2,2,0,0,0,0,2,0
+Olive Garden,Chicken Tortelloni Alfredo,Entree,1980,131,76,3720,95,9,112,5,2,2,2,2,0,0,0,0,0
+Olive Garden,Ravioli Carbonara,Entree,1390,104,63,2660,63,6,53,3,2,2,2,2,0,0,0,0,0
+Olive Garden,Shrimp Alfredo,Entree,1470,93,55,1620,96,6,63,4,2,0,2,0,0,0,0,2,0
+Olive Garden,Chicken & Shrimp Carbonara,Entree,1370,91,47,2050,75,10,64,3,2,2,2,0,0,0,0,2,0
+Olive Garden,Chicken Scampi,Entree,1050,41,16,2470,106,8,49,5,2,2,2,0,0,0,0,0,0
+Olive Garden,Seafood Alfredo,Entree,1450,93,55,1690,97,5,56,4,2,2,2,0,0,0,0,2,0
+Olive Garden,Grilled Chicken Margherita,Entree,650,39,11,2120,15,5,65,6,2,2,2,0,0,0,0,0,0
+Olive Garden,6 oz Sirloin,Entree,980,62,36,1840,49,3,57,2,2,2,2,0,0,0,0,0,0
+Olive Garden,Herb-Grilled Salmon,Entree,610,45,11,1360,9,3,45,4,0,0,2,0,0,0,2,0,0
+Chili's,Chips and Salsa,Appetizer,910,45,7,1920,113,5,13,8,0,0,0,0,0,0,0,0,0
+Chili's,Chips and Guacamole,Appetizer,1150,67,11,2710,127,7,16,18,0,0,0,0,0,0,0,0,0
+Chili's,Chips and Southwestern Queso,Appetizer,1360,83,31,3970,125,11,33,9,0,0,2,0,0,0,0,0,0
+Chili's,Chips and Skillet Beef Queso,Appetizer,1340,77,26,4560,129,13,35,10,2,0,2,0,0,0,0,0,0
+Chili's,Buffalo Bone-In Wings,Appetizer,960,72,12,3330,7,4,74,1,0,0,2,2,0,0,2,0,0
+Chili's,House BBQ Bone-In Wings,Appetizer,1120,68,12,2470,53,48,75,1,0,0,2,2,0,0,0,0,0
+Chili's,Honey Chipotle Bone-In Wings,Appetizer,1140,69,12,2500,61,45,74,1,0,0,2,2,0,0,0,0,0
+Chili's,Nashville Hot Bone-In Wings,Appetizer,1160,90,16,2730,13,7,76,13,0,0,2,2,0,0,0,0,0
+Chili's,Buffalo Boneless Wings,Appetizer,900,64,11,3380,45,4,36,3,2,0,2,2,0,0,2,0,0
+Chili's,Honey BBQ Boneless Wings,Appetizer,1040,61,10,2500,88,45,37,3,2,0,2,2,0,0,0,0,0
+Chili's,Honey Chipotle Boneless Wings,Appetizer,1090,61,10,2600,101,46,36,3,2,0,2,2,0,0,0,0,0
+Chili's,Nashville Hot Boneless Wings,Appetizer,1160,89,15,3090,54,7,39,2,2,0,2,2,0,0,0,0,0
+Chili's,Fried Mozzarella,Appetizer,920,55,27,2950,59,8,48,6,2,0,2,2,0,0,0,0,0
+Chili's,Honey Chipotle Fried Mozzarella,Appetizer,1410,97,34,3520,87,30,50,4,2,0,2,2,0,0,0,0,0
+Chili's,Nashville Hot Fried Mozzarella,Appetizer,1430,110,36,3680,60,8,51,4,2,0,2,2,0,0,0,0,0
+Chili's,Southwestern Eggrolls,Appetizer,1020,49,13,2850,109,12,37,11,2,2,2,2,0,0,0,0,0
+Chili's,Big Mouth Bites,Appetizer,1200,75,25,2190,78,19,57,3,2,2,2,2,0,0,0,0,0
+Chili's,Texas Cheese Fries,Appetizer,1780,122,52,3870,101,5,72,8,0,0,2,2,0,0,0,0,0
+Chili's,Chicken Enchilada Soup,Side,200,12,4,620,11,2,10,1,2,2,2,0,0,0,0,0,0
+Chili's,House Salad + Ranch,Side,290,23,5.5,570,14,5,6,1,2,0,2,2,0,0,0,0,0
+Chili's,Big QP Burger,Entree,890,56,25,1680,47,12,51,2,2,2,2,0,0,0,0,0,0
+Chili's,Big Smasher Burger,Entree,950,64,24,1440,49,14,47,2,2,2,2,2,0,0,0,0,0
+Chili's,Oldtimer Burger,Entree,850,53,23,1200,45,10,49,2,2,2,2,0,0,0,0,0,0
+Chili's,Bacon Cheeseburger,Entree,1120,78,31,1730,44,10,63,1,2,2,2,2,0,0,0,0,0
+Chili's,Santa Fe Burger,Entree,930,62,24,1290,48,11,49,4,2,2,2,2,0,0,0,0,0
+Chili's,Bacon Rancher Burger,Entree,1710,122,50,2630,49,13,107,2,2,2,2,2,0,0,0,0,0
+Chili's,Mushroom Swiss Burger,Entree,1000,67,25,1020,51,14,53,4,2,2,2,2,0,0,0,0,0
+Chili's,Veggie Santa Fe Burger,Entree,640,31,8,1410,74,14,28,13,2,2,2,2,0,0,0,0,0
+Chili's,Half Rack Ribs,Entree,1130,73,28,1650,54,49,68,1,0,0,0,0,0,0,0,0,0
+Chili's,Big Crispy Chicken Sandwich,Entree,860,50,9,1950,61,10,43,1,2,2,1,2,0,0,0,0,0
+Chili's,Buffalo Chicken Ranch Sandwich,Entree,840,45,8,3930,66,12,45,3,2,2,2,2,0,0,2,0,0
+Chili's,Deluxe Grilled Chicken Sandwich,Entree,780,45,12,1670,46,11,50,3,2,2,2,2,0,0,0,0,0
+Chili's,Deluxe Big Crispy Chicken Sandwich,Entree,1030,62,15,2170,64,12,56,2,2,2,2,2,0,0,0,0,0
+Chili's,Chicken Bacon Ranch Quesadilla,Entree,1670,124,42,3500,71,11,70,2,2,2,2,2,0,0,0,0,0
+Chili's,Brisket Quesadilla,Entree,1610,119,43,2750,86,24,53,2,2,2,2,2,0,0,0,0,0
+Chili's,Crispy Chicken Crispers,Entree,1140,67,11,5350,76,27,58,4,2,0,0,0,0,0,2,0,0
+Chili's,Honey Chipotle Crispy Crispers,Entree,1460,80,13.5,4760,131,63,58,3,2,0,2,2,0,0,0,0,0
+Chili's,Nashville Hot Crispy Crispers,Entree,1580,120,20.5,5560,65,8,61,3,2,0,2,2,0,0,0,0,0
+Chili's,Chicken Fajitas,Entree,1090,50,21.5,3490,78,15,84,9,2,0,2,0,0,0,0,0,0
+Chili's,Steak Fajitas,Entree,1180,62,26,3160,80,16,79,7,2,0,2,0,0,0,0,0,0
+Chili's,Shrimp Fajitas,Entree,920,48,21.5,3590,77,14,47,7,2,0,2,0,0,0,0,2,0
+Chili's,Fajita Trio,Entree,1180,58,24,4290,80,15,93,8,2,0,2,0,0,0,0,2,0
+Chili's,Fresh Mex Bowl,Entree,880,42,10,2610,80,9,46,7,0,0,2,2,0,0,0,0,0
+Chili's,Classic Sirloin,Entree,390,18,6,950,2,1,54,0,0,2,2,0,0,0,0,0,0
+Chili's,Classic Ribeye,Entree,620,39,17,1440,0,0,67,0,0,2,2,0,0,0,0,0,0
+Chili's,Surf & Turf Sirloin,Entree,450,20,7,1760,3,1,66,0,0,2,2,0,0,0,0,2,0
+Chili's,Surf & Turf Ribeye,Entree,690,41,17,2250,1,0,78,0,0,2,2,0,0,0,0,2,0
+Chili's,Guiltless Sirloin,Entree,450,20,6,1310,9,3,59,3,0,0,2,0,0,0,0,0,0
+Chili's,Margarita Grilled Chicken,Entree,640,14,2.5,2660,61,7,69,8,0,2,0,0,0,0,0,0,0
+Chili's,Chipotle Fresh Mex Bowl,Entree,880,42,10,2610,80,9,46,7,0,2,2,2,0,0,0,0,0
+Chili's,Ancho Salmon,Entree,590,31,5,1770,40,3,48,5,0,0,2,0,0,0,2,0,0
+Chili's,Santa Fe Salad,Entree,530,34,5,1570,24,7,35,6,0,2,2,2,0,0,0,0,0
+Chili's,Santa Fe Crispers Salad,Entree,770,56,9,2140,42,7,28,6,2,2,2,2,0,0,0,0,0
+Chili's,Quesadilla Explosion Salad,Entree,1180,77,25,2270,65,14,58,6,2,2,2,0,0,0,0,0,0
+Chili's,Quesadilla Explosion Crispers Salad,Entree,1420,100,29,2850,82,14,51,6,2,2,2,0,0,0,0,0,0
+Chili's,Chicken Cajun Pasta,Entree,1160,51,21,3550,109,5,64,8,2,2,2,0,0,0,0,0,0
+Chili's,Shrimp Cajun Pasta,Entree,1070,50,21,3480,108,5,46,7,2,2,2,0,0,0,0,2,0
+Chili's,Ultimate Cajun Pasta,Entree,1230,53,21,4350,110,5,76,8,2,2,2,0,0,0,0,2,0
+Red Lobster,Shrimp Cocktail,Appetizer,180,4,1,1180,10,1,23,1,0,0,0,0,0,0,0,2,0
+Red Lobster,Parrot Isle Coconut Shrimp,Appetizer,360,41,11,910,55,20,20,5,2,2,2,0,0,2,0,2,0
+Red Lobster,Popcorn Shrimp,Appetizer,450,51,5,1300,55,12,33,2,2,2,2,2,0,0,1,2,0
+Red Lobster,Calamari,Appetizer,1000,70,0,2070,44,5,47,1,2,2,2,2,0,0,0,2,0
+Red Lobster,Bacon-Wrapped Sea Scallops,Appetizer,450,37,8,1400,9,6,23,1,0,2,2,1,0,0,0,2,0
+Red Lobster,Seafood-Stuffed Mushrooms,Appetizer,360,23,9,1000,17,5,24,2,2,2,2,2,0,0,2,2,0
+Red Lobster,Seafood-Stuffed Mushrooms with Crab Topping,Appetizer,530,34,14,1620,24,6,33,2,2,2,2,2,0,0,2,2,0
+Red Lobster,Crispy Dragon Shrimp,Appetizer,1010,72,9,2010,67,22,25,4,2,2,2,2,0,0,0,2,0
+Red Lobster,Mozzarella Sticks,Appetizer,730,41,13,2130,58,7,31,4,2,2,2,2,0,0,0,1,0
+Red Lobster,Lobster Dip,Appetizer,890,35,15,1910,82,7,30,9,2,2,2,1,0,0,0,2,0
+Red Lobster,Crab Queso,Appetizer,930,56,21,2100,76,5,31,8,0,2,2,1,0,0,0,2,0
+Red Lobster,Lobster Flatbread,Appetizer,800,38,14,2310,77,8,30,9,2,2,2,1,0,0,0,2,0
+Red Lobster,Cheddar Bay Biscuits,Appetizer,960,60,30,2880,96,2,18,2,2,2,2,0,0,0,0,0,0
+Red Lobster,Live Maine Lobster,Entree,440,34,21,290,1,0,33,0,0,0,2,0,0,0,0,2,0
+Red Lobster,Maine Lobster Tail,Entree,420,41,22,780,1,0,13,0,0,2,2,0,0,0,0,2,0
+Red Lobster,Rock Lobster Tail,Entree,480,41,23,1160,2,0,27,1,0,2,2,0,0,0,0,2,0
+Red Lobster,Crispy Dragon Teriyaki Lobster,Entree,360,19,2,1740,32,10,16,1,2,2,1,2,0,0,0,2,2
+Red Lobster,Walt's Favorite Shrimp,Entree,260,10,1,1560,31,9,10,2,2,1,2,2,0,0,0,2,0
+Red Lobster,Shrimp Linguini Alfredo,Entree,1010,60,25,2150,78,4,37,5,2,2,2,0,0,0,0,2,0
+Red Lobster,Lobster & Shrimp Linguini,Entree,1240,74,34,3190,85,5,63,7,2,2,2,0,0,0,0,2,0
+Red Lobster,Crab Carbonara,Entree,1730,126,46,4210,84,6,72,7,2,2,2,0,0,0,0,2,0
+Red Lobster,Cajun Chicken Linguini Alfredo,Entree,1190,64,25,3170,86,5,62,3,2,2,2,0,0,0,0,0,0
+Red Lobster,Lobsterfest Boil,Entree,2030,143,87,4810,106,15,85,15,0,1,2,0,0,0,0,2,0
+Red Lobster,Mariner's Boil,Entree,1920,142,87,4140,103,14,63,14,0,1,2,0,0,0,0,2,0
+Red Lobster,Sailor's Boil,Entree,3130,247,111,4720,133,14,91,14,0,1,2,0,0,0,0,2,0
+Red Lobster,Crab Your Way,Entree,910,59,23,3780,56,6,42,6,0,1,2,0,0,0,0,2,0
+Red Lobster,Atlantic Salmon,Entree,510,34,6,680,1,0,47,0,0,1,2,0,0,0,2,0,0
+Red Lobster,Salmon New Orleans,Entree,1160,77,17,1180,9,2,102,2,0,2,2,0,0,0,2,2,0
+Red Lobster,Fish & Chips,Entree,1660,100,11,3740,148,25,39,12,2,2,2,2,0,0,2,1,0
+Red Lobster,6 oz Filet Mignon,Entree,260,14,4,850,1,1,34,1,0,0,2,0,0,0,0,0,0
+Red Lobster,7 oz Sirloin,Entree,320,15,4,980,1,0,46,0,0,0,2,0,0,0,0,0,0
+Red Lobster,Crunch-Fried Flounder,Entree,1170,74,9,3130,78,3,44,2,2,1,2,2,0,0,2,1,0
+Red Lobster,Parmesan-Crusted Chicken,Entree,650,35,19,1620,34,4,47,1,2,1,2,2,0,0,0,1,0
+Red Lobster,Crispy Chicken Tenders,Entree,690,54,7,1150,29,8,25,0,2,1,2,2,0,0,1,1,0
+Red Lobster,Lobster Bisque,Entree,630,52,15,1520,27,9,11,0,2,1,2,0,0,0,2,2,0
+Red Lobster,New England Clam Chowder,Entree,470,30,17,1350,22,7,15,1,2,2,2,0,0,0,2,2,0
+Red Lobster,Shrimp & Sausage Jambalaya,Entree,1020,62,16,3820,81,6,35,6,2,2,2,0,0,0,0,2,0
+Red Lobster,Bacon Cheeseburger,Entree,940,57,22,1900,43,7,62,3,2,0,2,2,0,0,0,0,2
+Red Lobster,Crunch-Fried Flounder Sandwich,Entree,1690,85,14,4150,190,28,40,13,2,2,2,2,0,0,2,0,2
+Red Lobster,Southwest Shrimp Bowl,Entree,700,45,12,2320,53,10,24,4,2,2,2,2,0,0,0,2,0
+Red Lobster,Sesame-Soy Salmon Bowl,Entree,1120,58,12,2410,86,28,62,12,2,2,2,0,0,0,2,0,2
+Red Lobster,Grilled Shrimp,Entree,250,7,1,1130,29,1,16,1,2,2,2,0,0,0,0,2,0
+Red Lobster,Garlic Shrimp Scampi,Entree,220,18,3,970,3,1,12,1,0,2,2,0,0,0,0,2,0
+CPK,Ciabatta Baguette,Appetizer,180,13,2,210,15,0,3,0,2,1,0,0,0,1,0,0,0
+CPK,White Corn Chips + Guac,Appetizer,770,51,7,560,79,5,10,18,1,1,1,1,1,1,1,1,1
+CPK,Spinach Artichoke Dip,Appetizer,1060,58,16,1240,106,5,24,15,2,2,2,0,0,0,0,0,0
+CPK,Avocado Club Egg Rolls,Appetizer,1240,82,21,1960,62,24,63,6,2,2,2,2,1,1,2,1,1
+CPK,Spicy Buffalo Chicken Bites,Appetizer,790,56,21,3570,37,9,34,2,2,2,2,2,1,1,2,1,2
+CPK,Spicy Buffalo Cauliflower Bites,Appetizer,720,54,17,2010,49,13,11,5,1,2,2,2,1,1,2,1,2
+CPK,Dynamite Shrimp,Appetizer,680,48,8,1750,41,15,21,4,1,2,2,2,1,1,1,2,2
+CPK,Schezwan Chicken Dumplings,Appetizer,340,8,1,1340,45,11,19,2,2,2,2,2,1,1,1,1,2
+CPK,Mexican Street Corn,Appetizer,440,21,8,850,53,10,13,3,2,2,2,2,0,0,1,2,0
+CPK,Chinese Vegetables Lettuce Wrap,Appetizer,380,17,1.5,3170,52,33,11,11,2,2,0,0,0,0,0,1,2
+CPK,Chicken Lettuce Wrap,Appetizer,570,26,3,3660,45,31,40,7,2,2,0,0,0,0,0,1,2
+CPK,Shrimp Lettuce Wrap,Appetizer,430,17,2,3480,45,31,29,7,2,2,0,0,0,0,0,2,2
+CPK,BBQ Chicken Chopped Salad,Appetizer,660,42,10,930,47,10,29,8,1,2,2,2,1,1,2,1,1
+CPK,Classic Caesar,Appetizer,330,26,5,550,16,4,9,4,2,2,2,2,0,1,0,0,0
+CPK,Charcuterie Salad,Appetizer,1270,101,22,1500,44,10,42,8,1,1,2,2,1,2,1,1,2
+CPK,Steakhouse Salad,Appetizer,720,53,15,1000,29,12,33,5,1,1,2,1,1,1,1,1,1
+CPK,California Cobb Salad,Appetizer,510,39,9,960,12,5,27,5,0,2,2,2,0,0,2,0,0
+CPK,Italian Chopped Salad,Appetizer,500,41,8,970,12,4,24,3,0,0,2,0,0,0,0,0,0
+CPK,Thai Crunch Salad,Appetizer,550,34,4,800,40,21,27,7,2,2,1,2,2,1,1,1,2
+CPK,Korean Crispy Dumpling Salad,Appetizer,420,20,3,1080,48,23,13,4,2,2,2,2,1,1,1,1,2
+CPK,Banh Mi Bowl,Appetizer,490,31,4.5,660,31,9,26,8,0,2,0,0,0,0,0,0,2
+CPK,Tomato Basil Bisque,Appetizer,270,20,6,750,20,13,3,2,2,2,2,0,0,1,0,0,0
+CPK,Dakota Smashed Pea + Barley,Appetizer,170,0,0,650,33,3,11,2,2,2,0,0,0,0,0,0,0
+CPK,Sedona Tortilla Soup,Appetizer,260,17,9,670,25,4,3,3,1,1,2,1,1,1,1,1,1
+CPK,Original BBQ Chicken Pizza,Entree,190,5,2.5,480,25,3,11,1,2,1,2,1,0,0,0,0,0
+CPK,California Veggie Pizza,Entree,160,5,2,370,24,3,8,2,2,1,2,1,1,1,1,1,1
+CPK,California Club Pizza,Entree,240,11,3.5,550,24,1,12,2,2,2,2,2,0,0,0,0,0
+CPK,Wild Mushroom Pizza,Entree,120,7,3,260,8,0,5,0,1,1,2,2,0,0,0,0,0
+CPK,Pepperoni Pizza,Entree,190,7,3,460,22,1,8,1,2,1,2,1,0,0,0,0,0
+CPK,Pizza Margherita,Entree,220,10,4.5,440,22,1,9,1,2,1,2,1,0,0,0,0,0
+CPK,Hawaiian Pizza,Entree,180,4.5,2,440,24,3,11,1,2,1,2,1,0,0,0,0,0
+CPK,Mushroom Pepperoni Sausage,Entree,200,8,3.5,500,23,1,9,1,2,1,2,1,0,0,0,0,0
+CPK,Five Cheese + Fresh Tomato,Entree,200,8,5,480,22,1,10,1,2,1,2,1,0,0,0,0,0
+CPK,The Works Pizza,Entree,210,9,3.5,550,24,2,9,1,2,1,2,1,0,0,0,0,0
+CPK,Neapolitan Burrata Pizza,Entree,220,11,4,390,24,2,6,1,2,1,2,1,0,0,0,0,0
+CPK,Thai Chicken Pizza,Entree,210,7,2,470,26,4,11,2,2,1,2,1,2,1,0,0,2
+CPK,Spicy Chipotle Chicken Pizza,Entree,220,10,4,470,24,2,11,1,2,2,2,2,0,0,0,0,0
+CPK,Carne Asada Pizza,Entree,230,10,4.5,420,23,1,12,1,2,2,2,1,0,1,0,0,0
+CPK,Tostada Pizza,Entree,190,7,2.5,380,27,2,7,2,2,2,2,2,1,1,2,1,1
+CPK,Sicilian Pizza,Entree,250,11,4.5,610,25,2,13,1,2,1,2,1,0,0,0,0,0
+CPK,Burnt Ends BBQ Pizza,Entree,200,7,3,520,24,3,10,1,2,1,2,1,0,0,0,0,0
+CPK,Tomato Basil Spaghetti,Entree,950,52,4.5,1640,104,11,20,10,2,1,1,1,1,1,1,1,1
+CPK,Bolognese Spaghetti,Entree,900,48,19,2050,88,12,27,5,2,1,2,1,1,1,1,1,1
+CPK,Garlic Cream Fettucine,Entree,1260,84,45,1280,97,6,30,6,2,1,2,1,1,1,1,1,1
+CPK,Braised Short Rib Ragu,Entree,1350,81,30,2390,112,8,42,8,2,2,2,2,1,1,1,1,1
+CPK,Jambalaya Linguini Fini,Entree,1230,71,19,2340,94,10,58,8,2,2,2,1,1,1,1,2,1
+CPK,Chicken Tequila Fettucine,Entree,1240,68,34,1810,116,8,45,9,2,2,2,1,1,1,1,1,1
+CPK,Shrimp Scampi Zucchini,Entree,480,26,11,1030,30,5,27,4,2,1,2,1,1,1,1,2,1
+CPK,Kung Pao Spaghetti,Entree,890,37,3.5,1600,112,13,28,9,2,2,1,1,2,1,1,1,2
+CPK,Kung Pao Chicken Spaghetti,Entree,1030,41,4,1750,122,13,43,9,2,2,1,1,2,1,1,1,2
+CPK,Kung Pao Shrimp Spaghetti,Entree,1030,41,4,1850,122,13,44,9,2,2,1,1,2,1,1,2,2
+CPK,Cedar Plank Salmon,Entree,650,34,8,640,35,12,52,4,0,0,2,0,0,0,2,0,0
+CPK,Chicken Piccata,Entree,1030,56,20,2080,73,5,55,4,2,1,2,1,0,1,1,0,0
+CPK,West Coast Burger,Entree,1520,94,35,4110,110,23,50,6,2,2,2,2,1,1,1,1,1
+CPK,California Club Sandwich - Chicken,Entree,570,30,5,1200,51,2,23,5,2,0,2,2,0,1,0,0,0
+CPK,California Club Sandwich - Turkey,Entree,540,26,4.5,1300,50,2,23,5,2,0,2,2,0,1,0,0,0
+CPK,BBLT,Entree,520,26,11,1020,52,3,18,3,2,1,2,0,0,1,0,0,0
+CPK,Meditarranean Hummus Sandwich,Entree,630,36,8,2150,59,2,18,6,2,1,2,0,0,1,0,0,2
+CPK,Banh Mi Sandwich,Entree,460,21,3,940,50,3,17,3,2,2,0,2,0,1,0,0,2
+CPK,Muffaletta,Entree,660,34,11,1530,50,2,30,3,2,2,2,2,0,1,0,0,0
+Noodles & Company,Buttery Parmesan Noodles,Entree,760,35,15,480,98,6,22,4,2,0,2,2,0,0,0,0,0
+Noodles & Company,Basil Pesto Cavatappi,Entree,420,20,7,520,51,4,12,5,2,0,2,0,0,0,0,0,0
+Noodles & Company,Roasted Garlic Cream Tortelloni,Entree,770,38,19,2400,72,7,36,5,2,2,2,2,0,0,0,0,0
+Noodles & Company,Pasta Fresca,Entree,640,18,3.5,1130,101,9,20,8,2,0,2,0,0,0,0,0,0
+Noodles & Company,Japanese Pan Noodles,Entree,640,12,4,2010,114,22,20,6,2,2,0,0,0,0,0,0,2
+Noodles & Company,Pad Thai,Entree,1040,42,8,2020,143,44,20,4,0,0,0,2,2,0,2,0,0
+Noodles & Company,Chili Garlic Ramen,Entree,820,31,17,2850,111,3,23,1,2,2,2,2,0,0,0,2,2
+Noodles & Company,Steak Stroganoff,Entree,1220,68,27,1610,118,13,44,7,2,2,2,2,0,0,0,0,0
+Noodles & Company,Spaghetti & Meatballs,Entree,960,46,17,1430,102,16,34,3,2,0,2,0,0,0,0,0,0
+Noodles & Company,Chicken Parmesan,Entree,940,32,12,1840,115,15,52,8,2,2,2,0,0,0,0,0,0
+Noodles & Company,Crispy Chicken Bacon Alfredo,Entree,1150,59,38,1840,105,7,50,10,2,2,2,0,0,0,0,0,0
+Noodles & Company,Lemon Garlic Shrimp Scampi,Entree,1050,59,26,1300,102,7,32,10,2,0,2,0,0,0,0,2,0
+Noodles & Company,Cajun Shrimp Fettucine,Entree,1050,57,28,1670,98,9,37,9,2,0,2,0,0,0,0,2,0
+Noodles & Company,Chipotle Chicken Cavatappi,Entree,1180,58,29,1770,107,13,53,7,2,0,2,0,0,0,0,0,0
+Noodles & Company,Rigatoni Rosa with Parmesan Chicken,Entree,900,31,11,1670,113,12,45,13,2,2,2,0,0,0,0,0,0
+Noodles & Company,Spicy Korean Steak Noodles,Entree,960,25,4,3400,150,44,31,3,2,2,0,2,0,0,0,0,2
+Noodles & Company,Indonesian Peanut Chicken Saute,Entree,1070,33,6,2350,146,37,46,9,2,2,0,0,2,0,0,0,2
+Noodles & Company,Creamy Cheddar Mac,Entree,1050,43,23,1910,120,10,46,5,2,0,2,0,0,0,0,0,0
+Noodles & Company,Buffalo Chicken Ranch Mac,Entree,1380,64,25,3830,136,12,66,7,2,2,2,2,0,0,0,0,0
+Noodles & Company,Garlic Bacon Crunch Mac,Entree,1290,63,28,2310,128,10,55,6,2,0,2,0,0,0,0,0,0
+Noodles & Company,Pulled Pork BBQ Mac,Entree,1240,49,22,2580,137,21,63,6,2,0,2,0,0,0,0,0,0
