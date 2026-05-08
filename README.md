@@ -21,5 +21,6 @@ Taco Bell vs Chipotle
 Chipotle is under the health halo, meaning it looks healthier because of veggies. However, it is very high in fats and sodium if you pile everything on. Taco Bell is relatively moderate and less intense on fats and sodium despite being known for processed.
 Eating out
 If you want to go bulk, I suggest eating at a sit-down restaurants with entrees like chicken, salmon, or steak, rather than Chipotle’s double chicken burrito bowl to cut down on carbs.
+What I've learned is that healthy is very complex: it depends on what your needs are.
 
 
