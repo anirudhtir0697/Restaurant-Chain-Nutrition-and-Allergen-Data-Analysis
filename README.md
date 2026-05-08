@@ -8,6 +8,8 @@ tents of my project:
 - An allergen bar graph depicting risk of each allergen for each restaurant
 - Allergen heatmap summing up all the risks and proportions and which restaurant to eat
 - A leaderboard depending on your goals: whether to bulk, lose weight, or be heart-healthy using linear algebra
+- Purpose of my project:
+- To guide users to make informed decisions based on describing nutritional insights and allergies
 
 Surprising insights:
 
